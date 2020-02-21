@@ -1,0 +1,39 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2332271,3,,Pear @ Inigo,,37.415427,-122.076167,,,0,,America/Los_Angeles,,,1
+2332272,4,,1065 La Avenida (Microsoft Bldg 1),,37.4116958682407,-122.072980165057,,,0,,America/Los_Angeles,,,1
+2332273,5,,1255 Pear (Google),,37.4142705,-122.0747932,,,0,,America/Los_Angeles,,,1
+2332274,6,,1288 Pear (Microsoft Bldg 6),,37.415704236828,-122.07563045942,,,0,,America/Los_Angeles,,,1
+2435091,,,#301 E Evelyn Parking Lot,,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,0
+2435092,,,Ferry Morse @ E Evelyn,,37.387798851368,-122.06294807747,,,0,,America/Los_Angeles,,,0
+2505169,,,Plymouth @ Joaquin,,37.416631,-122.080664,,,0,,America/Los_Angeles,,,0
+2505170,,,Alta @ Plymouth (outbound),,37.4174981054396,-122.085270215615,,,0,,America/Los_Angeles,,,0
+2505171,,,Alta @ Plymouth (inbound),,37.417514,-122.085449,,,0,,America/Los_Angeles,,,0
+2505172,,,Plymouth @ Shoreline (inbound),,37.416475,-122.079386,,,0,,America/Los_Angeles,,,0
+820661,,,Mountain View Transit Center (MVTC),1,37.3945977790146,-122.077233401728,,,0,,America/Los_Angeles,,,0
+820663,,,545 N Whisman (Symantec),3,37.402607349589,-122.0568219331,,,0,,America/Los_Angeles,,,0
+820664,,,313 Fairchild (Google),4,37.404392,-122.056522,,,0,,America/Los_Angeles,,,0
+820665,,,645 Clyde Ave (Samsung),4,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,0
+820666,,,VTA Middlefield Station,6,37.395431,-122.052678,,,0,,America/Los_Angeles,,,0
+820667,,,E Middlefield Rd @ Ellis St,7,37.396097141546,-122.05425853677,,,0,,America/Los_Angeles,,,1
+820668,,,N Whisman Rd  @ Middlefield Rd,8,37.396697,-122.059886,,,0,,America/Los_Angeles,,,0
+820669,,,Shoreline @ Terra Bella ,2,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,0
+820670,,,Shoreline @ Pear ,3,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,0
+820671,,,Shoreline @ Charleston ,4,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,0
+820672,9,,2011 Stierlin Court (Google),5,37.4235701978497,-122.071798643874,,,0,,America/Los_Angeles,,,0
+820673,,,Crittenden Lane @ Google,6,37.424959045407,-122.07008470002,,,0,,America/Los_Angeles,,,0
+820674,,,Charleston @ Shoreline,7,37.420694,-122.078997,,,0,,America/Los_Angeles,,,0
+820676,,,Shoreline @ Pear ,9,37.415261,-122.078206,,,0,,America/Los_Angeles,,,0
+820677,,,Shoreline @ Terra Bella ,10,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,0
+820679,,,Charleston @ Huff ,3,37.4209,-122.082583,,,0,,America/Los_Angeles,,,0
+820680,,,1950 Charleston,4,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,0
+820681,,,Salado @ Google West Campus,5,37.423917,-122.093614,,,0,,America/Los_Angeles,,,0
+820682,,,Intuit Building #1 (parking lot),6,37.4274545611355,-122.09636765024,,,0,,America/Los_Angeles,,,0
+820683,,,Intuit Building #5,7,37.429339,-122.096981,,,0,,America/Los_Angeles,,,0
+820684,,,Intuit Building #7,8,37.430372,-122.096847,,,0,,America/Los_Angeles,,,0
+820685,,,Intuit Building #8,9,37.431742,-122.096672,,,0,,America/Los_Angeles,,,0
+820686,,,Charleston @ Landings,10,37.421475,-122.088786,,,0,,America/Los_Angeles,,,0
+820687,,,Charleston @ Huff ,11,37.420756,-122.083244,,,0,,America/Los_Angeles,,,0
+820689,,,E Middlefield Rd @ Ellis St (Symantec & VTA),3,37.395497,-122.053216,,,0,,America/Los_Angeles,,,0
+820692,,,389 N Whisman (Google Quad),7,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,0
+820693,,,Middlefield @ N Whisman,2,37.3970611158688,-122.05930927109,,,0,,America/Los_Angeles,,,0
+822196,,,Shoreline @ Charleston ,12,37.4196843738425,-122.078134710428,,,0,,America/Los_Angeles,,,0
