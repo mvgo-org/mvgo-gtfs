@@ -1,2 +1,2 @@
 feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 24-Dec-2019 00:26,,support+mountainview-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20191223,20210101,mountainview-ca-us
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 22-Feb-2020 18:57,,support+mountainview-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20200222,20201231,mountainview-ca-us
