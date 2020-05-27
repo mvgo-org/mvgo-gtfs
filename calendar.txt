@@ -1,2 +1,2 @@
 service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_16881_b_19526_d_31,Year Round CANCELED (Weekday),1,1,1,1,1,0,0,20190401,20200316
+c_18778_b_25584_d_31,Year Round Starting 08/01/20 (Weekday),1,1,1,1,1,0,0,20200801,20201231

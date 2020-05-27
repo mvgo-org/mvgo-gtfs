@@ -1,7 +1,1 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
-0,3652,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,east_bayshore,0,East Bayshore,0
-1,15579,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,east_bayshore,1,East Bayshore,0
-2,3654,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,east_whisman,0,East Whisman,0
-3,3655,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,east_whisman,1,East Whisman,0
-4,3656,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,west_bayshore,0,West Bayshore,0
-5,15580,0,20190401,20201231,1,1,1,1,1,0,0,,,horizontal,west_bayshore,1,West Bayshore,0
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation
