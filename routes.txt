@@ -1,17 +1,17 @@
 agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
 533,3654,,East Whisman AM,,3,http://mvgo.org/east-whisman-route.html,003d84,ffffff,0,,0,1,1
 533,15595,,Last Call,,3,,000000,,1,,0,1,1
-533,15593,B - AM,,,3,,e38a1b,000000,10,,0,1,1
-533,15594,B - PM,,,3,,e38a1b,000000,11,,0,1,1
-533,15582,,C - AM,Bayshore-San Antonio Counterclockwise Loop,3,,378f36,ffffff,12,,0,1,1
-533,15596,,C - PM,,3,,378f36,ffffff,13,,0,1,1
-533,15597,,D - AM,,3,,ffff00,000000,14,,0,1,1
-533,15583,,D - PM,,3,,ffff00,000000,15,,0,1,1
+533,15593,B - AM,B - Shoreline (AM),,3,,e38a1b,000000,10,,0,1,1
+533,15594,B - PM,B - Shoreline (PM),,3,,e38a1b,000000,11,,0,1,1
+533,15582,C - AM,C - Bayshore-San Antonio (AM),Bayshore-San Antonio Counterclockwise Loop,3,,378f36,ffffff,12,,0,1,1
+533,15596,C - PM,C - Bayshore-San Antonio (PM),,3,,378f36,ffffff,13,,0,1,1
+533,15597,D - AM,D - San Antonio-Bayshore (AM),,3,,ffff00,000000,14,,0,1,1
+533,15583,D - PM,D - San Antonio-Bayshore (PM),,3,,ffff00,000000,15,,0,1,1
 533,3655,,East Whisman PM,,3,http://mvgo.org/east-whisman-route.html,4a5f9c,ffffff,2,,0,1,1
 533,3652,,East Bayshore AM,,3,http://mvgo.org/east-bayshore-route.html,e38a1b,000000,3,,0,1,1
 533,15579,,East Bayshore PM,,3,http://mvgo.org/east-bayshore-route.html,e38a1b,000000,4,,0,1,1
 533,3656,,West Bayshore AM,,3,http://mvgo.org/west-bayshore-route.html,378f36,000000,5,,0,1,1
 533,15580,,West Bayshore PM,,3,http://mvgo.org/west-bayshore-route.html,378f36,000000,6,,0,1,1
 533,15581,Sweeper,Bayshore Sweeper,,3,,378f36,000000,7,,0,1,1
-533,15591,,A - AM,,3,,003d84,ffffff,8,,0,1,1
-533,15592,,A - PM,,3,,003d84,ffffff,9,,0,1,1
+533,15591,A - AM,A - Whisman (AM),,3,,003d84,ffffff,8,,0,1,1
+533,15592,A - PM,A - Whisman (PM),,3,,6199d9,ffffff,9,,0,1,1

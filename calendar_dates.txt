@@ -4,4 +4,3 @@ c_18778_b_25584_d_31,20201224,Christmas Eve 2020,2
 c_18778_b_25584_d_31,20201127,Friday after Thanksgiving,2
 c_18778_b_25584_d_31,20201126,Thanksgiving Day 2020,2
 c_18778_b_25584_d_31,20200907,Labor Day 2020,2
-c_18778_b_25584_d_31,20200525,Memorial Day 2020,2
