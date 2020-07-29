@@ -1,9 +1,9 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
-0,15591,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,a,0,A - AM,0
-1,15592,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,a,1,A - PM,0
-2,15593,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,b,0,B - AM,0
-3,15594,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,b,1,B - PM,0
-4,15582,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,c,0,C - AM,0
-5,15596,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,c,1,C - PM,0
-6,15597,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,d,0,D - AM,0
-7,15583,0,20200801,20201231,1,1,1,1,1,0,0,,,horizontal,d,1,D - PM,0
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_time,end_time,include_exceptions,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
+0,15591,0,20200901,20201231,1,1,1,1,1,0,0,00:00:00,12:00:00,0,Route A - AM,,horizontal,a,0,AM,
+1,15591,0,20200901,20201231,1,1,1,1,1,0,0,12:00:00,24:00:00,0,Route A - PM,,horizontal,a,1,PM,
+2,15593,0,20200901,20201231,1,1,1,1,1,0,0,00:00:00,12:00:00,0,Route B - AM,,horizontal,b,0,AM,
+3,15593,0,20200901,20201231,1,1,1,1,1,0,0,12:00:00,24:00:00,0,Route B - PM,,horizontal,b,1,PM,
+4,15582,0,20200901,20201231,1,1,1,1,1,0,0,00:00:00,12:00:00,0,Route C - AM,,horizontal,c,0,AM,
+5,15582,0,20200901,20201231,1,1,1,1,1,0,0,12:00:00,24:00:00,0,Route C - PM,,horizontal,c,1,PM,
+6,15597,0,20200901,20201231,1,1,1,1,1,0,0,00:00:00,12:00:00,0,Route D - AM,,horizontal,d,0,AM,
+7,15597,0,20200901,20201231,1,1,1,1,1,0,0,12:00:00,24:00:00,0,Route D - PM,,horizontal,d,1,PM,
