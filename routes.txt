@@ -1,9 +1,5 @@
 agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
-533,15593,B - AM,B - Shoreline (AM),,3,,e38a1b,000000,10,,0,1,1
-533,15594,B - PM,B - Shoreline (PM),,3,,e38a1b,000000,11,,0,1,1
-533,15582,C - AM,C - Bayshore-San Antonio (AM),Bayshore-San Antonio Counterclockwise Loop,3,,43b5ae,ffffff,12,,0,1,1
-533,15596,C - PM,C - Bayshore-San Antonio (PM),,3,,43b5ae,ffffff,13,,0,1,1
-533,15597,D - AM,D - San Antonio-Bayshore (AM),,3,,fddd00,ffffff,14,,0,1,1
-533,15583,D - PM,D - San Antonio-Bayshore (PM),,3,,fddd00,ffffff,15,,0,1,1
-533,15591,A - AM,A - Whisman (AM),,3,,3869a2,ffffff,8,,0,1,1
-533,15592,A - PM,A - Whisman (PM),,3,,3869a2,ffffff,9,,0,1,1
+533,15593,B,"Shoreline, La Avenida, Crittenden",,3,https://mvgo.org/routes/b/,e38a1b,ffffff,1,,0,1,1
+533,15591,A,"Whisman, Clyde and Middlefield",,3,https://mvgo.org/routes/a/,3869a2,ffffff,16,,0,1,1
+533,15582,C,"Charleston, Garcia and San Antonio (counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,2,,0,1,1
+533,15597,D,"San Antonio, Garcia and Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,ffffff,3,,0,1,1

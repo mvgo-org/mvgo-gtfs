@@ -18,21 +18,21 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2581586,62014,,Garcia @ Marine (WB),,37.427843936263,-122.097665493156,,,0,,America/Los_Angeles,,,0
 2581587,62025,,Garcia @ Marine (EB),,37.4277619767925,-122.09735597682,,,0,,America/Los_Angeles,,,0
 2581588,62015,,Marine @ Casey,,37.4314288965063,-122.098776585386,,,0,,America/Los_Angeles,,,0
-2581589,6031,,Clyde @ Samsung ,PM Service Only,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,0
+2581589,6031,,Clyde @ Samsung,PM Service Only,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,0
 820661,6000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1
 820663,,,545 N Whisman (Symantec),3,37.402607349589,-122.0568219331,,,0,,America/Los_Angeles,,,0
 820664,6024,,313 Fairchild (Google),,37.404392,-122.056522,,,0,,America/Los_Angeles,,,0
 820665,6025,,645 Clyde Ave (Samsung),AM Service Only,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,0
 820666,64532,,VTA Middlefield Station,AM Only,37.395431,-122.052678,,,0,,America/Los_Angeles,,,0
-820668,6027,,Whisman @ Middlefield ,,37.396697,-122.059886,,,0,,America/Los_Angeles,,,0
-820669,6010,,Shoreline @ Terra Bella ,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,0
+820668,6027,,Whisman @ Middlefield,,37.396697,-122.059886,,,0,,America/Los_Angeles,,,0
+820669,6010,,Shoreline @ Terra Bella,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,0
 820670,62006,,Shoreline @ Pear (NB),,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,0
 820671,6015,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,0
 820672,6016,,2011 Stierlin Court (Google),5,37.4235701978497,-122.071798643874,,,0,,America/Los_Angeles,,,0
 820673,6017,,Crittenden Lane @ Google,,37.424959045407,-122.07008470002,,,0,,America/Los_Angeles,,,0
 820676,62032,,Shoreline @ Pear (SB),,37.415261,-122.078206,,,0,,America/Los_Angeles,,,0
-820677,62033,,Shoreline @ Terra Bella ,,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,0
-820679,62010,,Charleston @ Google ,,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,0
+820677,62033,,Shoreline @ Terra Bella,,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,0
+820679,62010,,Charleston @ Google,,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,0
 820680,62011,,1950 Charleston,,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,0
 820681,,,Salado @ Google West Campus,5,37.423917,-122.093614,,,0,,America/Los_Angeles,,,0
 820682,,,Intuit Building #1 (parking lot),6,37.4274545611355,-122.09636765024,,,0,,America/Los_Angeles,,,0
@@ -40,7 +40,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 820684,,,Intuit Building #7,8,37.430372,-122.096847,,,0,,America/Los_Angeles,,,0
 820685,,,Intuit Building #8,9,37.431742,-122.096672,,,0,,America/Los_Angeles,,,0
 820686,62028,,Charleston @ Landings,,37.421475,-122.088786,,,0,,America/Los_Angeles,,,0
-820687,66036,,Charleston @ Huff ,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1
+820687,66036,,Charleston @ Huff,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1
 820689,6030,,Middlefield Rd @ Ellis (VTA LTR),PM only.,37.395497,-122.053216,,,0,,America/Los_Angeles,,,0
 820692,6022,,389 N Whisman (Google Quad),,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,0
 820693,61280,,Middlefield @ Whisman,PM Only,37.3970611158688,-122.05930927109,,,0,,America/Los_Angeles,,,0
