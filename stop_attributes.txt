@@ -1,47 +1,37 @@
 stop_id,stop_city
-820661,Mountain View
-820663,Springfield
-820664,Mountain View
-820665,Mountain View
 820666,Mountain View
-820668,Mountain View
-820669,Mountain View
-820670,Mountain View
-820671,Mountain View
-820672,Mountain View
-820673,Mountain View
-820676,Mountain View
-820677,Mountain View
-820679,Mountain View
-820680,Mountain View
-820681,Springfield
-820682,Springfield
-820683,Springfield
-820684,Springfield
-820685,Springfield
-820686,Mountain View
-820687,Mountain View
-820689,Mountain View
-820692,Mountain View
-820693,Mountain View
-822196,Mountain View
-2332271,Mountain View
 2332272,Mountain View
-2332273,Mountain View
-2332274,Mountain View
-2435091,Mountain View
-2435092,Mountain View
-2505169,Mountain View
-2505170,Mountain View
-2505171,Mountain View
-2505172,Mountain View
-2581580,Mountain View
+820668,Mountain View
 2581581,Mountain View
-2581582,Mountain View
-2581583,Mountain View
-2581584,Mountain View
-2581585,Mountain View
-2581586,Mountain View
+820692,Mountain View
+2435091,Mountain View
+820665,Mountain View
 2581587,Mountain View
-2581588,Mountain View
+2332274,Mountain View
+820677,Mountain View
+2332273,Mountain View
+820671,Mountain View
+820687,Mountain View
+2581582,Mountain View
+820686,Mountain View
+2581584,Mountain View
+820664,Mountain View
+820689,Mountain View
+2581583,Mountain View
 2581589,Mountain View
+2581585,Mountain View
+820661,Mountain View
+2332271,Mountain View
+2581580,Mountain View
+820676,Mountain View
+820673,Mountain View
+822196,Mountain View
+820670,Mountain View
+820693,Mountain View
+820680,Mountain View
+2435092,Mountain View
+2581588,Mountain View
+820679,Mountain View
+820669,Mountain View
+820672,Mountain View
+2581586,Mountain View
