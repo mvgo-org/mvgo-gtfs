@@ -1,2 +1,2 @@
 agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
-533,http://www.mvgo.org,en,MVgo Mountain View,(650) 933-2518,America/Los_Angeles,http://mvgo.org/rider-info.html
+533,https://mvgo.org/,en,MVgo Mountain View,(650) 933-2518,America/Los_Angeles,https://mvgo.org/shuttles/
