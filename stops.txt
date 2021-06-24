@@ -1,5 +1,4 @@
 stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
-2750560,6014,,1045 La Avenida (Microsoft),,37.4126874368698,-122.073055964831,,,0,,America/Los_Angeles,,,0
 3820402,6000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1
 3820403,6021,,#301 E Evelyn Parking Lot,AM Service Only.,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,1
 3820404,6022,,389 N Whisman (Google Quad),,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,1
@@ -34,3 +33,4 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 6685100,62025,,Garcia @ Marine (EB),,37.4277619767925,-122.09735597682,,,0,,America/Los_Angeles,,,1
 6685101,62026,,Garcia @ Salado (EB),,37.4251756713619,-122.093056489424,,,0,,America/Los_Angeles,,,1
 6685102,66036,,Charleston & Huff,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1
+6707112,6014,,1045 La Avenida (Microsoft),,37.4126874368698,-122.073055964831,,,0,,America/Los_Angeles,,,0
