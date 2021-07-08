@@ -1,2 +1,2 @@
 feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 01-Jul-2021 14:49,,support+test+mountainview-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20210701,20220101,mountainview-ca-us
+http://www.trilliumtransit.com,"Trillium Solutions, Inc. client-initiated export",en,UTC: 08-Jul-2021 05:47,,brendan@blinktag.com,http://support.trilliumtransit.com,20210707,20211231,mountainview-ca-us
