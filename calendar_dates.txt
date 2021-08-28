@@ -1,5 +1,5 @@
 service_id,date,holiday_name,exception_type
-c_18778_b_25584_d_31,20211224,Christmas Eve,2
-c_18778_b_25584_d_31,20211126,Friday after Thanksgiving,2
-c_18778_b_25584_d_31,20211125,Thanksgiving Day,2
-c_18778_b_25584_d_31,20210906,Labor Day,2
+c_21896_b_30827_d_31,20211224,Christmas Eve,2
+c_21896_b_30827_d_31,20211126,Friday after Thanksgiving,2
+c_21896_b_30827_d_31,20211125,Thanksgiving Day,2
+c_21896_b_30827_d_31,20210906,Labor Day,2

@@ -4,3 +4,4 @@ route_id,direction_id,direction
 15591,0,Outbound
 15593,0,Loop
 15597,0,Loop
+15597,0,Outbound
