@@ -1,5 +1,5 @@
 agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
-533,15591,A,"Whisman, Clyde and Middlefield",,3,https://mvgo.org/routes/a/,003d84,ffffff,0,,0,1,1
-533,15593,B,"Shoreline, La Avenida, Crittenden",,3,https://mvgo.org/routes/b/,e08926,ffffff,1,,0,1,1
-533,15582,C,"Charleston, Garcia and San Antonio (counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,2,,0,1,1
-533,15597,D,"San Antonio, Garcia and Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,111111,3,,0,1,1
+533,3651,A,"Whisman, Clyde and Middlefield",,3,https://mvgo.org/routes/a/,003d84,ffffff,0,,0,1,1
+533,3652,B,"Shoreline, La Avenida, Crittenden",,3,https://mvgo.org/routes/b/,e08926,ffffff,1,,0,1,1
+533,3653,C,"Charleston, Garcia and San Antonio (counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,2,,0,1,1
+533,5372,D,"San Antonio, Garcia and Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,111111,3,,0,1,1
