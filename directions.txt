@@ -1,7 +1,6 @@
 route_id,direction_id,direction
-15582,0,Loop
-15591,0,Loop
-15591,0,Outbound
-15593,0,Loop
-15597,0,Loop
-15597,0,Outbound
+3653,0,Loop
+3651,0,Loop
+3652,0,Loop
+5372,0,Loop
+5372,0,Outbound

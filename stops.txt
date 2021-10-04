@@ -1,35 +1,36 @@
-stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
-3820402,6000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1
-3820403,6021,,#301 E Evelyn Parking Lot,AM Service Only.,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,1
-3820404,6022,,389 N Whisman (Google Quad),,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,1
-3820406,6024,,313 Fairchild (Google),,37.404392,-122.056522,,,0,,America/Los_Angeles,,,1
-3820407,6025,,645 Clyde Ave (Samsung),AM Service Only.,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,1
-3820408,64532,,VTA Middlefield Station,AM Only,37.395431,-122.052678,,,0,,America/Los_Angeles,,,1
-3820411,6028,,Ferry Morse @ E Evelyn,,37.387798851368,-122.06294807747,,,0,,America/Los_Angeles,,,1
-3820732,61280,,Middlefield @ Whisman,PM Only,37.3970611158688,-122.05930927109,,,0,,America/Los_Angeles,,,1
-3820733,6030,,Middlefield Rd @ Ellis (VTA LTR),PM only.,37.395497,-122.053216,,,0,,America/Los_Angeles,,,1
-3820734,6027,,Whisman @ Middlefield,,37.396697,-122.059886,,,0,,America/Los_Angeles,,,1
-3820988,6010,,Shoreline @ Terra Bella,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,1
-3820989,6011,,Pear @ Inigo,,37.415427,-122.076167,,,0,,America/Los_Angeles,,,1
-3820990,6012,,1255 Pear (Google),,37.4142705,-122.0747932,,,0,,America/Los_Angeles,,,1
-3820992,62006,,Shoreline @ Pear (NB),,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,1
-3820993,6015,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,1
-3820995,6017,,Crittenden Lane @ Google,,37.424959045407,-122.07008470002,,,0,,America/Los_Angeles,,,1
-3820996,62030,,Shoreline @ Charleston (SB),,37.4196843738425,-122.078134710428,,,0,,America/Los_Angeles,,,1
-3820997,62032,,Shoreline @ Pear (SB),,37.415261,-122.078206,,,0,,America/Los_Angeles,,,1
-3820998,62033,,Shoreline @ Terra Bella,,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,1
-3821543,62011,,1950 Charleston,,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,1
-3821549,62028,,Charleston @ Landings,,37.421475,-122.088786,,,0,,America/Los_Angeles,,,1
-3824530,6016,,2011 Stierlin Court (Google),,37.4235701978497,-122.071798643874,,,0,,America/Los_Angeles,,,1
-3951128,6031,,Clyde @ Samsung,PM Service Only.,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,1
-6684601,62010,,Charleston & Google (W),,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,1
-6684602,62013,,Garcia @ Salado (WB),,37.4253276710788,-122.093136791629,,,0,,America/Los_Angeles,,,1
-6684603,62014,,Garcia @ Marine (WB),,37.427843936263,-122.097665493156,,,0,,America/Los_Angeles,,,1
-6684616,62015,,Marine @ Casey,,37.4314288965063,-122.098776585386,,,0,,America/Los_Angeles,,,1
-6684618,6039,,El Camino @ Distel (EB),,37.3968498529799,-122.104763389688,,,0,,America/Los_Angeles,,,1
-6685097,60498,,El Camino @ Distel  (WB),,37.39715234461,-122.104667829415,,,0,,America/Los_Angeles,,,1
-6685098,60692,,San Antonio @ Miller (NB),San Antonio Center,37.4046034476971,-122.11138338356,,,0,,America/Los_Angeles,,,1
-6685100,62025,,Garcia @ Marine (EB),,37.4277619767925,-122.09735597682,,,0,,America/Los_Angeles,,,1
-6685101,62026,,Garcia @ Salado (EB),,37.4251756713619,-122.093056489424,,,0,,America/Los_Angeles,,,1
-6685102,66036,,Charleston & Huff,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1
-6707112,6014,,1045 La Avenida (Microsoft),,37.4126874368698,-122.073055964831,,,0,,America/Los_Angeles,,,0
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
+3820402,6000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1,
+3820403,6021,,#301 E Evelyn Parking Lot,AM Service Only.,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,1,
+3820404,6022,,389 N Whisman (Google Quad),,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,1,
+3820406,6024,,313 Fairchild (Google),,37.404392,-122.056522,,,0,,America/Los_Angeles,,,1,
+3820407,6025,,645 Clyde Ave (Samsung),AM Service Only.,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,1,
+3820408,64532,,VTA Middlefield Station,AM Only,37.395431,-122.052678,,,0,,America/Los_Angeles,,,1,
+3820411,6028,,Ferry Morse @ E Evelyn,,37.387798851368,-122.06294807747,,,0,,America/Los_Angeles,,,1,
+3820732,61280,,Middlefield @ Whisman,PM Only,37.3970611158688,-122.05930927109,,,0,,America/Los_Angeles,,,1,
+3820733,6030,,Middlefield Rd @ Ellis (VTA LTR),PM only.,37.395497,-122.053216,,,0,,America/Los_Angeles,,,1,
+3820734,6027,,Whisman @ Middlefield,,37.396697,-122.059886,,,0,,America/Los_Angeles,,,1,
+3820988,6010,,Shoreline @ Terra Bella,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,1,
+3820989,6011,,Pear @ Inigo,,37.415427,-122.076167,,,0,,America/Los_Angeles,,,1,
+3820990,6012,,1255 Pear (Google),,37.4142705,-122.0747932,,,0,,America/Los_Angeles,,,1,
+3820992,62006,,Shoreline @ Pear (NB),,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,1,
+3820993,6015,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,1,
+3820995,6017,,Crittenden Lane @ Google,,37.424959045407,-122.07008470002,,,0,,America/Los_Angeles,,,1,
+3820996,62030,,Shoreline @ Charleston (SB),,37.4196843738425,-122.078134710428,,,0,,America/Los_Angeles,,,1,
+3820997,62032,,Shoreline @ Pear (SB),,37.415261,-122.078206,,,0,,America/Los_Angeles,,,1,
+3820998,62033,,Shoreline @ Terra Bella,,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,1,
+3821543,62011,,1950 Charleston,,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,1,
+3821549,62028,,Charleston @ Landings,,37.421475,-122.088786,,,0,,America/Los_Angeles,,,1,
+3824530,6016,,2011 Stierlin Court (Google),,37.4235701978497,-122.071798643874,,,0,,America/Los_Angeles,,,1,
+3951128,6031,,Clyde @ Samsung,PM Service Only.,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,1,
+6684601,62010,,Charleston & Google (W),,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,1,
+6684602,62013,,Garcia @ Salado (WB),,37.4253276710788,-122.093136791629,,,0,,America/Los_Angeles,,,1,
+6684603,62014,,Garcia @ Marine (WB),,37.427843936263,-122.097665493156,,,0,,America/Los_Angeles,,,1,
+6684616,62015,,Marine @ Casey,,37.4314288965063,-122.098776585386,,,0,,America/Los_Angeles,,,1,
+6684617,6037,,San Antonio @ Miller (SB),,37.4048867067034,-122.111591291827,,,0,,America/Los_Angeles,,,1,
+6684618,6039,,El Camino @ Distel (EB),,37.3968498529799,-122.104763389688,,,0,,America/Los_Angeles,,,1,
+6685097,60498,,El Camino @ Distel  (WB),,37.39715234461,-122.104667829415,,,0,,America/Los_Angeles,,,1,
+6685098,60692,,San Antonio @ Miller (NB),San Antonio Center,37.4046034476971,-122.11138338356,,,0,,America/Los_Angeles,,,1,
+6685100,62025,,Garcia @ Marine (EB),,37.4277619767925,-122.09735597682,,,0,,America/Los_Angeles,,,1,
+6685101,62026,,Garcia @ Salado (EB),,37.4251756713619,-122.093056489424,,,0,,America/Los_Angeles,,,1,
+6685102,66036,,Charleston & Huff,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1,
+6707112,6014,,1045 La Avenida (Microsoft),,37.4126874368698,-122.073055964831,,,0,,America/Los_Angeles,,,0,
