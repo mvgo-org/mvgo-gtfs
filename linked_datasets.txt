@@ -1,1 +1,3 @@
 url,trip_updates,vehicle_positions,service_alerts,authentication_type,authentication_info_url,api_key_parameter_name
+https://ridemvgo.org/gtfs-rt/tripupdates,true,false,false,none,,
+https://ridemvgo.org/gtfs-rt/vehiclepositions,false,true,false,none,,
