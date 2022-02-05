@@ -1,7 +1,7 @@
 stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
 3820402,6000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1,
 3820403,6021,,#301 E Evelyn Parking Lot,AM Service Only.,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,1,
-3820404,6022,,389 N Whisman (Google Quad),,37.398947224655,-122.05695413053,,,0,,America/Los_Angeles,,,1,
+3820404,6022,,389 N Whisman (Google Quad),,37.3998287152803,-122.054841693562,,,0,,America/Los_Angeles,,,1,
 3820406,6024,,313 Fairchild (Google),,37.404392,-122.056522,,,0,,America/Los_Angeles,,,1,
 3820407,6025,,645 Clyde Ave (Samsung),AM Service Only.,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,1,
 3820408,64532,,VTA Middlefield Station,AM Only,37.395431,-122.052678,,,0,,America/Los_Angeles,,,1,

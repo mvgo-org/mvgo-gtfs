@@ -5,5 +5,5 @@ agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_
 533,3652P,B - PM,"Shoreline, Crittenden, La Avenida",,3,,e08926,ffffff,3,,0,1,1,,
 533,3653A,C - AM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,4,,0,1,1,,
 533,3653P,C - PM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,5,,0,1,1,,
-533,5372A,D - AM,"San Antonio, Garcia & Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,111111,6,,0,1,1,,
-533,5372P,D - PM,"San Antonio, Garcia & Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,ffffff,7,,0,1,1,,
+533,5372A,D - AM,"San Antonio, Garcia & Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,000000,6,,0,1,1,,
+533,5372P,D - PM,"San Antonio, Garcia & Charleston (clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,000000,7,,0,1,1,,
