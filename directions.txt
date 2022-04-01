@@ -6,5 +6,5 @@ route_id,direction_id,direction
 5372A,0,Outbound
 3651P,0,Loop
 3652P,0,Loop
-3653P,0,Loop
 5372P,0,Loop
+3653P,0,Loop
