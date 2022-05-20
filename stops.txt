@@ -20,7 +20,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 3820998,62033,,Shoreline @ Terra Bella,,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,1,
 3821543,62011,,1950 Charleston,,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,1,NinteenFifty Charleston
 3821549,62028,,Charleston @ Landings,,37.421475,-122.088786,,,0,,America/Los_Angeles,,,1,
-3824530,6016,,2011 Stierlin Court (Google),,37.4235701978497,-122.071798643874,,,0,,America/Los_Angeles,,,1,TwentyEleven Stirlin Court Google
+3824530,6016,,2011 Stierlin Court (Google),,37.4235283276106,-122.071731027391,,,0,,America/Los_Angeles,,,1,TwentyEleven Stirlin Court Google
 3951128,6031,,Clyde @ Samsung,PM Service Only.,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,1,
 6684601,62010,,Charleston & Google (WB),,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,1,Charleston and Google Westbound
 6684602,62013,,Garcia @ Salado (WB),,37.4253276710788,-122.093136791629,,,0,,America/Los_Angeles,,,1,Garcia at Suhlado Westbound
