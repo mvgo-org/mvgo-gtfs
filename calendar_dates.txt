@@ -1,6 +1,32 @@
 service_id,date,holiday_name,exception_type
+c_47205_b_none_d_0,20221007,Shoreline Event,1
+c_47205_b_none_d_0,20221005,Shoreline Event,1
+c_47205_b_none_d_0,20220930,Shoreline Event,1
+c_47205_b_none_d_0,20220927,Shoreline Event,1
+c_47205_b_none_d_0,20220916,Shoreline Event,1
+c_47205_b_none_d_0,20220909,Shoreline Event,1
+c_47205_b_none_d_0,20220908,Shoreline Event,1
+c_47205_b_none_d_0,20220902,Shoreline Event,1
+c_47205_b_none_d_0,20220826,Shoreline Event,1
+c_47205_b_none_d_0,20220825,Shoreline Event,1
+c_47205_b_none_d_0,20220823,Shoreline Event,1
+c_47205_b_none_d_0,20220817,Shoreline Event,1
+c_47205_b_none_d_0,20220729,Shoreline Event,1
+c_47205_b_none_d_0,20220715,Shoreline Event,1
 c_24088_b_34538_d_31,20221125,Friday after Thanksgiving,2
 c_24088_b_34538_d_31,20221124,Thanksgiving Day,2
+c_24088_b_34538_d_31,20221007,Shoreline Event,2
+c_24088_b_34538_d_31,20221005,Shoreline Event,2
+c_24088_b_34538_d_31,20220930,Shoreline Event,2
+c_24088_b_34538_d_31,20220927,Shoreline Event,2
+c_24088_b_34538_d_31,20220916,Shoreline Event,2
+c_24088_b_34538_d_31,20220909,Shoreline Event,2
+c_24088_b_34538_d_31,20220908,Shoreline Event,2
 c_24088_b_34538_d_31,20220905,Labor Day,2
-c_24088_b_34538_d_31,20220704,Independence Day,2
-c_24088_b_34538_d_31,20220530,Memorial Day,2
+c_24088_b_34538_d_31,20220902,Shoreline Event,2
+c_24088_b_34538_d_31,20220826,Shoreline Event,2
+c_24088_b_34538_d_31,20220825,Shoreline Event,2
+c_24088_b_34538_d_31,20220823,Shoreline Event,2
+c_24088_b_34538_d_31,20220817,Shoreline Event,2
+c_24088_b_34538_d_31,20220729,Shoreline Event,2
+c_24088_b_34538_d_31,20220715,Shoreline Event,2
