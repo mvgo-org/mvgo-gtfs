@@ -1,7 +1,5 @@
 timetable_page_id,timetable_page_label,filename
 a,,
 b,,
-b-concert,,
 c,,
-c-concert,,
 d,,
