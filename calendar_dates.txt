@@ -1,1 +1,3 @@
-date,service_id,holiday_name,exception_type
+service_id,date,holiday_name,exception_type
+c_67714_b_78470_d_31,20230102,Monday after New Years Day 2023,2
+c_67714_b_78470_d_31,20221226,Monday after Christmas 2022,2
