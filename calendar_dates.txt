@@ -3,10 +3,5 @@ c_69245_b_80202_d_31,20231225,Christmas Day,2
 c_69245_b_80202_d_31,20231124,Friday after Thanksgiving,2
 c_69245_b_80202_d_31,20231123,Thanksgiving Day,2
 c_69245_b_80202_d_31,20230904,Labor Day,2
-c_69245_b_80202_d_31,20230705,Shoreline Event,2
 c_69245_b_80202_d_31,20230704,Independence Day,2
-c_69245_b_80202_d_31,20230616,Shoreline Event,2
-c_69245_b_80202_d_31,20230526,Shoreline Event,2
-c_47205_b_none_d_127,20230705,Shoreline Event,1
-c_47205_b_none_d_127,20230616,Shoreline Event,1
-c_47205_b_none_d_127,20230526,Shoreline Event,1
+c_69245_b_80202_d_31,20230529,Memorial Day,2
