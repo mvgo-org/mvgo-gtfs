@@ -1,2 +1,2 @@
-agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
-533,https://mvgo.org/,en,MVgo Mountain View,(650) 933-2518,America/Los_Angeles,https://mvgo.org/shuttles/,
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name,agency_email
+533,https://mvgo.org/,en,MVgo Mountain View,(650) 933-2518,America/Los_Angeles,https://mvgo.org/shuttles/,,info@mvgo.org

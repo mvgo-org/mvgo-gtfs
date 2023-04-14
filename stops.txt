@@ -12,7 +12,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 3820988,866010,,Shoreline @ Terra Bella,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,1,
 3820989,866011,,Pear @ Inigo,,37.415427,-122.076167,,,0,,America/Los_Angeles,,,1,Pear at inaye-go
 3820992,8662006,,Shoreline @ Pear (NB),,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,1,Shoreline at Pear Northbound
-3820993,8666036,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,1,Shoreline at Charleston Northbound
+3820993,866015,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,1,Shoreline at Charleston Northbound
 3820996,8662030,,Shoreline @ Charleston (SB),,37.4196843738425,-122.078134710428,,,0,,America/Los_Angeles,,,1,Shoreline at Charleston Southbound
 3820997,8662032,,Shoreline @ Pear (SB),,37.415261,-122.078206,,,0,,America/Los_Angeles,,,1,Shoreline at Pear Southbound
 3820998,8662033,,Shoreline @ Terra Bella (SB),,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,1,
