@@ -1,9 +1,9 @@
 route_id,direction_id,direction
 5790,0,Loop
 5788,0,Loop
-20428,0,Loop
+5785,0,Loop
 5786,0,Loop
 5789,0,Loop
-20759,0,Loop
+5784,0,Loop
 5783,0,Loop
 5787,0,Loop
