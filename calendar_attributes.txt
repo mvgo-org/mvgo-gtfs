@@ -1,2 +1,3 @@
 service_id,service_description
+c_69540_b_80686_d_31,Calendar start 06.01.23 (Weekday)
 c_69245_b_80417_d_31,Calendar start 03.01.23 (Weekday)

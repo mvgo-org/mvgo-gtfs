@@ -33,3 +33,4 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 7269843,866037,,San Antonio @ Miller (SB),,37.4048867067034,-122.111591291827,,,0,,America/Los_Angeles,,,1,San Antonio @ Miller Southbound
 7970159,866016,,Stierlin Court (Google),,37.4235432334436,-122.071855756208,,,0,,America/Los_Angeles,,,1,TwentyEleven Stirlin Court Google
 8271269,866017,,Crittenden Lane,,37.4245868222087,-122.070442454904,,,0,,America/Los_Angeles,,,0,
+8754565,8661266,,San Antonio @ California (NB),,37.406179106133,-122.11045503316,,https://mvgo.org/,0,,America/Los_Angeles,,,1,
