@@ -1,11 +1,15 @@
-agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
-533,5783,A - AM,"Whisman, Clyde & Middlefield",,3,https://mvgo.org/routes/a/,1f51ff,ffffff,0,,0,1,1,,
-533,5786,A - PM,"Middlefield, Clyde & Whisman",,3,https://mvgo.org/routes/a/,1f51ff,ffffff,1,,0,1,1,,
-533,5784,B - AM,"Shoreline, La Avenida, Crittenden",,3,https://mvgo.org/routes/b/,e08926,ffffff,2,,0,1,1,,
-533,5785,B - PM,"Shoreline, Crittenden, La Avenida",,3,,e08926,ffffff,3,,0,1,1,,
-533,20473,B - PM Concert,"Middlefield, Crittenden, Shoreline",,3,,e02646,ffffff,4,,0,1,1,,
-533,5787,C - AM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,5,,0,1,1,,
-533,5788,C - PM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,https://mvgo.org/routes/c/,43b5ae,ffffff,6,,0,1,1,,
-533,20022,C - PM Concert,"California, San Antonio, W El Camino Real",,3,,12eb4b,ffffff,7,,0,1,1,,
-533,5789,D - AM,"San Antonio, Garcia & Charleston (Clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,111111,8,,0,1,1,,
-533,5790,D - PM,"San Antonio, Garcia & Charleston (Clockwise loop)",,3,https://mvgo.org/routes/d/,fddd00,000000,9,,0,1,1,,
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+Gray,,MVCS - Gray,MVCS - Gray,,3,,8C8C88,,,1,1
+Gray_Weekend,,MVCS - Gray,MVCS - Gray Weekend,,3,,8C8C88,,,1,1
+Red,,MVCS - Red,MVCS - Red,,3,,FF2B0A,,,1,1
+20473,,MVgo - B PM Concert,MVgo - B PM Concert,,3,,E02646,,,1,1
+5787,,MVGO - C,MVgo - C AM,,3,,43B5AE,,,1,1
+5786,,MVgo - A,MVgo - A PM,,3,,1F51FF,,,1,1
+5789,,MVgo - D,MVgo - D AM,,3,,FDDD00,,,1,1
+5785,,MVgo - B,MVgo - B PM,,3,,E08926,,,1,1
+5784,,MVgo - B,MVgo - B AM,,3,,E08926,,,1,1
+5783,,MVgo - A,MVgo - A AM,,3,,1F51FF,,,1,1
+20022,,MVgo - C Concert,MVgo - C PM Concert,,3,,12EB4B,,,1,1
+5788,,MVgo - C,MVgo - C PM,,3,,43B5AE,,,1,1
+5790,,MVgo - D,MVgo - D PM,,3,,FDDD00,,,1,1
+Red_Weekend,,MVCS - Red,MVCS - Red Weekend,,3,,FF2B0A,,,1,1

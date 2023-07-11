@@ -1,36 +1,91 @@
-stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
-3820402,866000,,Mountain View Transit Center (MVTC),,37.3946720351342,-122.077278395655,,,0,,America/Los_Angeles,,,1,
-3820403,866021,,301 E Evelyn Parking Lot,AM Service Only.,37.387655512462,-122.06210117082,,,0,,America/Los_Angeles,,,1,Three Oh One East Evellynn Parking Lot
-3820404,866022,,468 Ellis St (Google QD3),,37.3998287152803,-122.054841693562,,,0,,America/Los_Angeles,,,1,FourSixtyEight Ellis Street Google Queue Dee Three
-3820406,866024,,313 Fairchild (Google),,37.404392,-122.056522,,,0,,America/Los_Angeles,,,1,ThreeThirteen Fairchild Google
-3820407,866025,,645 Clyde Ave (Samsung),AM Service Only.,37.401437427135,-122.04758367268,,,0,,America/Los_Angeles,,,1,SixFourtyFive Clyde Avenue Samsung
-3820408,8664532,,VTA Middlefield Station,AM Only,37.395431,-122.052678,,,0,,America/Los_Angeles,,,1,
-3820411,866028,,Ferry Morse @ E Evelyn,,37.387798851368,-122.06294807747,,,0,,America/Los_Angeles,,,1,Ferry Morse at East Evellynn
-3820732,8661280,,Middlefield @ Whisman,PM Only,37.3970611158688,-122.05930927109,,,0,,America/Los_Angeles,,,1,
-3820733,866030,,Middlefield @ Ellis (VTA Light Rail),PM only.,37.395497,-122.053216,,,0,,America/Los_Angeles,,,1,Middlefield at Ellis VTA Light Rail
-3820734,866027,,Whisman @ Middlefield,,37.396697,-122.059886,,,0,,America/Los_Angeles,,,1,
-3820988,866010,,Shoreline @ Terra Bella,,37.4082669631811,-122.07794025417,,,0,,America/Los_Angeles,,,1,
-3820989,866011,,Pear @ Inigo,,37.415427,-122.076167,,,0,,America/Los_Angeles,,,1,Pear at inaye-go
-3820992,8662006,,Shoreline @ Pear (NB),,37.4159782652875,-122.077923789061,,,0,,America/Los_Angeles,,,1,Shoreline at Pear Northbound
-3820993,866015,,Shoreline @ Charleston (NB),,37.4193846115354,-122.077807676081,,,0,,America/Los_Angeles,,,1,Shoreline at Charleston Northbound
-3820996,8662030,,Shoreline @ Charleston (SB),,37.4196843738425,-122.078134710428,,,0,,America/Los_Angeles,,,1,Shoreline at Charleston Southbound
-3820997,8662032,,Shoreline @ Pear (SB),,37.415261,-122.078206,,,0,,America/Los_Angeles,,,1,Shoreline at Pear Southbound
-3820998,8662033,,Shoreline @ Terra Bella (SB),,37.4081744880165,-122.07819530763,,,0,,America/Los_Angeles,,,1,
-3821543,8662011,,1950 Charleston,,37.421314352541,-122.087880000472,,,0,,America/Los_Angeles,,,1,NinteenFifty Charleston
-3821549,8662028,,Charleston @ Landings,,37.421475,-122.088786,,,0,,America/Los_Angeles,,,1,
-3951128,866031,,Clyde @ Samsung,PM Service Only.,37.400852578697,-122.047760594783,,,0,,America/Los_Angeles,,,1,
-6684601,8662010,,Charleston & Google (WB),,37.4209086123751,-122.081923662424,,,0,,America/Los_Angeles,,,1,Charleston and Google Westbound
-6684602,8662013,,Garcia @ Salado (WB),,37.4253276710788,-122.093136791629,,,0,,America/Los_Angeles,,,1,Garcia at Suhlado Westbound
-6684603,8662014,,Garcia @ Marine (WB),,37.427843936263,-122.097665493156,,,0,,America/Los_Angeles,,,1,Garcia at Marine Westbound
-6684616,8662015,,Marine @ Casey,,37.4314288965063,-122.098776585386,,,0,,America/Los_Angeles,,,1,
-6684618,8660349,,El Camino @ Distel (EB),,37.3968498529799,-122.104763389688,,,0,,America/Los_Angeles,,,1,El Camino at Distell Eastbound
-6685097,866039,,El Camino @ Distel  (WB),,37.39715234461,-122.104667829415,,,0,,America/Los_Angeles,,,1,El Camino at Distell Westbound
-6685098,8660692,,San Antonio @ Miller (NB),San Antonio Center,37.404777,-122.111271,,,0,,America/Los_Angeles,,,1,San Antonio at Miller Northbound
-6685100,8662025,,Garcia @ Marine (EB),,37.427742108555,-122.09628661327,,,0,,America/Los_Angeles,,,1,Garcia at Marine Eastbound
-6685101,8662026,,Garcia @ Salado (EB),,37.4251756713619,-122.093056489424,,,0,,America/Los_Angeles,,,1,Garcia at Suhlado Eastbound
-6685102,8666036,,Charleston & Huff,,37.4206363536674,-122.082000184783,,,0,,America/Los_Angeles,,,1,
-6707112,866014,,1045 La Avenida (Microsoft),,37.41254,-122.072879,,,0,,America/Los_Angeles,,,1,TenFourtyFive La Aveneeda Microsoft
-7269843,866037,,San Antonio @ Miller (SB),,37.4048867067034,-122.111591291827,,,0,,America/Los_Angeles,,,1,San Antonio @ Miller Southbound
-7970159,866016,,Stierlin Court (Google),,37.4235432334436,-122.071855756208,,,0,,America/Los_Angeles,,,1,TwentyEleven Stirlin Court Google
-8271269,866017,,Crittenden Lane,,37.4245868222087,-122.070442454904,,,0,,America/Los_Angeles,,,0,
-8754565,8661266,,San Antonio @ California (NB),,37.406179106133,-122.11045503316,,https://mvgo.org/,0,,America/Los_Angeles,,,1,
+stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
+2c1b32b8-1263-4f81-96b8-9a3bf7eb5ed0,,301 E Evelyn Parking Lot,,,37.387655512462,-122.06210117082,,,0,,,0,,
+dbfb3699-314c-4a43-a87b-24c5f63c54f7,,468 Ellis St (Google QD3),,,37.3998287152803,-122.054841693562,,,0,,,0,,
+004bc514-12a6-4f02-898f-f69bf96a2db5,,313 Fairchild (Google),,,37.404392,-122.056522,,,0,,,0,,
+acef3c19-99a9-43d8-8bb6-2a561f18b38e,,645 Clyde Ave (Samsung),,,37.401437427135,-122.04758367268,,,0,,,0,,
+886f24e7-47da-49e7-847a-99b9c970c6ed,,VTA Middlefield Station,,,37.395431,-122.052678,,,0,,,0,,
+e76bed84-0516-49a7-b64f-9f8abcfd45be,,Ferry Morse @ E Evelyn,,,37.387798851368,-122.06294807747,,,0,,,0,,
+aea79c93-bb2b-4b1a-af21-ec745074dea8,,Middlefield @ Whisman,,,37.3970611158688,-122.05930927109,,,0,,,0,,
+7ae86d2b-c558-4740-a5f1-52c6632cf467,,Middlefield @ Ellis (VTA Light Rail),,,37.395497,-122.053216,,,0,,,0,,
+7be92ffb-a666-4e44-86ab-d61c6f8239c2,,Whisman @ Middlefield,,,37.396697,-122.059886,,,0,,,0,,
+efcbecc3-b4f5-45e5-b2a0-01bbca9900dc,,Shoreline @ Terra Bella,,,37.4082669631811,-122.07794025417,,,0,,,0,,
+66d9988c-f3e1-4b06-8930-c710405a430f,,Pear @ Inigo,,,37.415427,-122.076167,,,0,,,0,,
+f2e8ebb0-e116-45f4-a556-52183447de8d,,Shoreline @ Pear (NB),,,37.4159782652875,-122.077923789061,,,0,,,0,,
+e7246535-1f12-4704-aa28-68631aece5b8,,Shoreline @ Charleston (NB),,,37.4193846115354,-122.077807676081,,,0,,,0,,
+74a678f2-3abd-4ba7-9f33-ed0a09a489ea,,Shoreline @ Charleston (SB),,,37.4196843738425,-122.078134710428,,,0,,,0,,
+d647bc0f-bd4f-4de0-9e35-ba55c7e068a1,,Shoreline @ Pear (SB),,,37.415261,-122.078206,,,0,,,0,,
+45c5b1ef-d190-443f-ab84-d544ed6bbdee,,Shoreline @ Terra Bella (SB),,,37.4081744880165,-122.07819530763,,,0,,,0,,
+fbc7fcf3-07e6-474c-878c-a34a39cf0ed0,,1950 Charleston,,,37.421314352541,-122.087880000472,,,0,,,0,,
+c4e8aa06-33da-4f96-ad63-a750f8ca8737,,Charleston @ Landings,,,37.421475,-122.088786,,,0,,,0,,
+59a1beba-ea50-46eb-bd6a-a8d73d1fa35d,,Clyde @ Samsung,,,37.400852578697,-122.047760594783,,,0,,,0,,
+11f85a38-0e4c-47ac-97eb-14bf0ddfa75f,,Charleston & Google (WB),,,37.4209086123751,-122.081923662424,,,0,,,0,,
+91871fad-1ddb-4bd2-bf26-356f75544b71,,Garcia @ Salado (WB),,,37.4253276710788,-122.093136791629,,,0,,,0,,
+05712c5f-f8a4-4e5c-8e3b-ac6904801b86,,Garcia @ Marine (WB),,,37.427843936263,-122.097665493156,,,0,,,0,,
+550d3827-a41f-4a68-baf6-a64280778f78,,Marine @ Casey,,,37.4314288965063,-122.098776585386,,,0,,,0,,
+101fc805-715c-44d3-97e2-8fe993f431a6,,El Camino @ Distel (EB),,,37.3968498529799,-122.104763389688,,,0,,,0,,
+ee71d54a-2ebd-4a47-980f-73e0b32fc4ed,,El Camino @ Distel  (WB),,,37.39715234461,-122.104667829415,,,0,,,0,,
+a25ea421-ebc5-4093-aa15-cfc999d424c6,,San Antonio @ Miller (NB),,,37.404777,-122.111271,,,0,,,0,,
+66b41bad-3cf2-47f4-89eb-37d0f4cd37a7,,Garcia @ Marine (EB),,,37.427742108555,-122.09628661327,,,0,,,0,,
+f5e8bfeb-03eb-4c35-aadb-65e629237d4b,,Garcia @ Salado (EB),,,37.4251756713619,-122.093056489424,,,0,,,0,,
+b8a509d3-c0e1-4c43-b9e9-b859af90820d,,Charleston & Huff,,,37.4206363536674,-122.082000184783,,,0,,,0,,
+bc7094b5-6444-4af5-841b-79204717cee1,,1045 La Avenida (Microsoft),,,37.41254,-122.072879,,,0,,,0,,
+378d53f4-b742-4158-91f5-3e88fea33564,,San Antonio @ Miller (SB),,,37.4048867067034,-122.111591291827,,,0,,,0,,
+d086b819-da90-4393-a8d9-93f244ac35bf,,Crittenden Lane,,,37.4245868222087,-122.070442454904,,,0,,,0,,
+6d240f57-8914-43d9-a274-ebc1a4e9a703,,San Antonio @ California (NB),,,37.406179106133,-122.11045503316,,,0,,,0,,
+5832ae32-dc3a-425d-90f9-0867ca34e439,,Mountain View Transit Center (MVTC),,,37.3945665861344,-122.077133247549,,,0,,,0,,
+WS_R,,Whisman Station (Red),,,37.391914,-122.061657,,,0,,,0,,
+WS_G,,Whisman Station (Gray),,,37.392074,-122.061904,,,0,,,0,,
+WM_R,,Whisman/Middlefield (Red),,,37.3966584441769,-122.059674025894,,,0,,,0,,
+WM_G,,Whisman/Middlefield (Gray),,,37.3966989143584,-122.059892313279,,,0,,,0,,
+WD_R,,Whisman/Dana (Red),,,37.3865195213383,-122.064342194271,,,0,,,0,,
+WD_G,,Whisman/Dana (Gray),,,37.3867371084984,-122.064216595072,,,0,,,0,,
+VS,,Villa/Shoreline,,,37.395729,-122.083707,,,0,,,0,,
+VM,,Villa/Mariposa,,,37.3973542416114,-122.088093045639,,,0,,,0,,
+VF_R,,Villa/Franklin (Red),,,37.3945532816765,-122.081002991402,,,0,,,0,,
+VF_G,,Villa/Franklin (Gray),,,37.3948531013741,-122.081395248953,,,0,,,0,,
+STC_R,,Senior/Teen Center (Red),,,37.3982855240223,-122.09309918345,,,0,,,0,,
+STC_G,,Senior/Teen Center (Gray),,,37.3987900534928,-122.09297320734,,,0,,,0,,
+SPR,,Shoreline/Pear,,,37.4151345362921,-122.078257326389,,,0,,,0,,
+SPK_R,,Sylvan Park (Red),,,37.3828403657513,-122.061307481563,,,0,,,0,,
+SPK_G,,Sylvan Park (Gray),,,37.3819971089972,-122.061760223545,,,0,,,0,,
+SM3_G,,Shoreline/Middlefield #3 (Gray),,,37.405776,-122.077462,,,0,,,0,,
+SM2,,Shoreline/Middlefield #2,,,37.4068305049069,-122.077976557043,,,0,,,0,,
+SM1_R,,Shoreline/Middlefield #1 (Red),,,37.4066759808328,-122.07867325542,,,0,,,0,,
+SAC,,San Antonio Center,,,37.4009132928214,-122.10828446404,,,0,,,0,,
+RMON_R,,Rengstorff/Montecito (Red),,,37.4067250054695,-122.095485596768,,,0,,,0,,
+RMON_G,,Rengstorff/Montecito (Gray),,,37.4066527226214,-122.095239779514,,,0,,,0,,
+RMDL_R,,Rengstorff/Middlefield (Red),,,37.4111759467194,-122.092917016518,,,0,,,0,,
+RMDL_G,,Rengstorff/Middlefield (Gray),,,37.4113799880158,-122.092167516533,,,0,,,0,,
+RC_R,,Rengstorff/Central (Red),,,37.40389,-122.097105,,,0,,,0,,
+RC_G,,Rengstorff/Central (Gray),,,37.40415,-122.096748,,,0,,,0,,
+MVTC,,MV Transit Center,,,37.3946362769605,-122.077103673355,,,0,,,0,,
+MSP_R,,Middlefield/San Pierre (Red),,,37.408059,-122.081516,,,0,,,0,,
+MSP_G,,Middlefield/San Pierre (Gray),,,37.407407,-122.080938,,,0,,,0,,
+MM_R,,Middlefield/Moffett (Red),,,37.400663,-122.073255,,,0,,,0,,
+MM_G,,Middlefield/Moffett (Gray),,,37.400125,-122.072796,,,0,,,0,,
+ME_R,,Middlefield/Easy (Red),,,37.398879,-122.066618,,,0,,,0,,
+ME_G,,Middlefield/Easy (Gray),,,37.3986161689151,-122.066083023314,,,0,,,0,,
+GR_R,,Grant Rd. (Red),,,37.3787756936012,-122.074036894174,,,0,,,0,,
+GR_G,,Grant Rd. (Gray),,,37.377967,-122.07503,,,0,,,0,,
+GMS_R,,Graham Middle School (Red),,,37.3830618276863,-122.0857209552,,,0,,,0,,
+GMS_G,,Graham Middle School (Gray),,,37.382042343518,-122.086002274222,,,0,,,0,,
+GE,,Grant/Eunice,,,37.370103,-122.077733,,,0,,,0,,
+ECRS_R,,El Camino Real/Sylvan (Red),,,37.377065,-122.063268,,,0,,,0,,
+ECRS_G,,El Camino Real/Sylvan (Gray),,,37.3772890062887,-122.063332436384,,,0,,,0,,
+ECH,,El Camino Hospital,,,37.369497,-122.079413,,,0,,,0,,
+CVC_R,,Civic Center (Red),,,37.3896937341977,-122.081700627497,,,0,,,0,,
+CVC_G,,Civic Center (Gray),,,37.389873470839,-122.081270900523,,,0,,,0,,
+CR_R,,California/Rengstorff (Red),,,37.398812,-122.099646,,,0,,,0,,
+CR,,California/Rengstorff,,,37.399194,-122.100345,,,0,,,0,,
+CO_W,,California/Ortega West,,,37.401564,-122.104409,,,0,,,0,,
+CO_E,,California/Ortega East,,,37.400968,-122.10315,,,0,,,0,,
+CMS_R,,Crittenden Middle School (Red),,,37.409883,-122.087503,,,0,,,0,,
+CMS_G,,Crittenden Middle School (Gray),,,37.409689,-122.087673,,,0,,,0,,
+CM_R,,Cuesta/Miramonte (Red),,,37.373616,-122.086458,,,0,,,0,,
+CM_G,,Cuesta/Miramonte (Gray),,,37.3740696236913,-122.086941953373,,,0,,,0,,
+CMC_R,,Community Center (Red),,,37.4011690349247,-122.098804841923,,,0,,,0,,
+CMC_G,,Community Center (Gray),,,37.4015623657344,-122.098315472387,,,0,,,0,,
+CG_G,,Cuesta/Grant (Gray),,,37.3736,-122.078299,,,0,,,0,,
+CG,,Cuesta/Grant,,,37.37313,-122.077966,,,0,,,0,,
+CECR_R,,Castro/El Camino Real (Red),,,37.3870441349302,-122.083290464051,,,0,,,0,,
+CECR_G,,Castro/El Camino Real (Gray),,,37.385106,-122.084189,,,0,,,0,,

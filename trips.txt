@@ -1,237 +1,340 @@
-route_id,service_id,trip_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,trip_type,drt_max_travel_time,drt_avg_travel_time,drt_advance_book_min,drt_pickup_message,drt_drop_off_message,continuous_pickup_message,continuous_drop_off_message,tts_trip_headsign,tts_trip_short_name
-20022,c_69529_b_none_d_127,t_5630253_b_none_tn_0,C3_Trip10_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630254_b_none_tn_0,C3_Trip1_Concert,Route C-Concert,0,C3,p_1393345,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630255_b_none_tn_0,C3_Trip2_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630249_b_none_tn_0,C3_Trip6_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630251_b_none_tn_0,C3_Trip8_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630252_b_none_tn_0,C3_Trip9_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630250_b_none_tn_0,C3_Trip7_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630248_b_none_tn_0,C3_Trip5_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630247_b_none_tn_0,C3_Trip4_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20022,c_69529_b_none_d_127,t_5630256_b_none_tn_0,C3_Trip3_Concert,Route C-Concert,0,C3,p_1388156,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630240_b_none_tn_0,B2_Trip3_Concert,Route B-Concert,0,B2,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630239_b_none_tn_0,B1_Trip4_Concert,Route B-Concert,0,B1,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630238_b_none_tn_0,B1_Trip3_Concert,Route B-Concert,0,B1,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630237_b_none_tn_0,B1_Trip5_Concert,Route B-Concert,0,B1,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630236_b_none_tn_0,B2_Trip2_Concert,Route B-Concert,0,B2,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630232_b_none_tn_0,B1_Trip1_Concert,Route B-Concert,0,B1,p_1433139,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630235_b_none_tn_0,B1_Trip2_Concert,Route B-Concert,0,B1,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630234_b_none_tn_0,B3_Trip1_Concert,Route B-Concert,0,B3,p_1433139,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630246_b_none_tn_0,B3_Trip4_Concert,Route B-Concert,0,B3,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630245_b_none_tn_0,B3_Trip3_Concert,Route B-Concert,0,B3,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630244_b_none_tn_0,B2_Trip5_Concert,Route B-Concert,0,B2,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630233_b_none_tn_0,B2_Trip1_Concert,Route B-Concert,0,B2,p_1433139,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630243_b_none_tn_0,B1_Trip6_Concert,Route B-Concert,0,B1,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630242_b_none_tn_0,B3_Trip2_Concert,Route B-Concert,0,B3,p_1433140,1,1,,,,,,,,,,
-20473,c_69529_b_none_d_127,t_5630241_b_none_tn_0,B2_Trip4_Concert,Route B-Concert,0,B2,p_1433140,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562314_b_80417_tn_0,A1_TRIP6_AM,Route A - AM,0,A1,p_899112,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562309_b_80417_tn_0,A1_TRIP5_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562310_b_80417_tn_0,A1_TRIP4_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562311_b_80417_tn_0,A1_TRIP1_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562312_b_80417_tn_0,A1_TRIP2_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69245_b_80417_d_31,t_5562313_b_80417_tn_0,A1_TRIP3_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630167_b_none_tn_0,A1_TRIP3_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630168_b_none_tn_0,A1_TRIP6_AM,Route A - AM,0,A1,p_899112,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630164_b_none_tn_0,A1_TRIP4_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630165_b_none_tn_0,A1_TRIP1_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630166_b_none_tn_0,A1_TRIP2_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69529_b_none_d_127,t_5630163_b_none_tn_0,A1_TRIP5_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634350_b_80686_tn_0,A1_TRIP2_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634351_b_80686_tn_0,A1_TRIP3_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634347_b_80686_tn_0,A1_TRIP5_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634348_b_80686_tn_0,A1_TRIP4_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634349_b_80686_tn_0,A1_TRIP1_AM,Route A - AM,0,A1,p_899114,1,1,,,,,,,,,,
-5783,c_69540_b_80686_d_31,t_5634352_b_80686_tn_0,A1_TRIP6_AM,Route A - AM,0,A1,p_899112,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562255_b_80417_tn_0,B2_TRIP2_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562251_b_80417_tn_0,B1_TRIP4_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562247_b_80417_tn_0,B1_TRIP1_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562248_b_80417_tn_0,B1_TRIP2_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562249_b_80417_tn_0,B1_TRIP3_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562250_b_80417_tn_0,B1_TRIP5_AM,Route B - AM,0,B1,p_1433131,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562252_b_80417_tn_0,B2_TRIP1_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562253_b_80417_tn_0,B2_TRIP3_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562254_b_80417_tn_0,B2_TRIP4_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69245_b_80417_d_31,t_5562256_b_80417_tn_0,B2_TRIP5_AM,Route B - AM,0,B2,p_1433131,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630159_b_none_tn_0,B2_TRIP4_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630162_b_none_tn_0,B2_TRIP5_AM,Route B - AM,0,B2,p_1433131,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630161_b_none_tn_0,B1_TRIP5_AM,Route B - AM,0,B1,p_1433131,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630160_b_none_tn_0,B2_TRIP2_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630158_b_none_tn_0,B2_TRIP3_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630157_b_none_tn_0,B1_TRIP4_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630156_b_none_tn_0,B1_TRIP3_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630155_b_none_tn_0,B2_TRIP1_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630154_b_none_tn_0,B1_TRIP2_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69529_b_none_d_127,t_5630153_b_none_tn_0,B1_TRIP1_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634342_b_80686_tn_0,B2_TRIP3_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634343_b_80686_tn_0,B2_TRIP4_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634344_b_80686_tn_0,B2_TRIP2_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634345_b_80686_tn_0,B1_TRIP5_AM,Route B - AM,0,B1,p_1433131,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634346_b_80686_tn_0,B2_TRIP5_AM,Route B - AM,0,B2,p_1433131,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634338_b_80686_tn_0,B1_TRIP2_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634339_b_80686_tn_0,B2_TRIP1_AM,Route B - AM,0,B2,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634340_b_80686_tn_0,B1_TRIP3_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634337_b_80686_tn_0,B1_TRIP1_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5784,c_69540_b_80686_d_31,t_5634341_b_80686_tn_0,B1_TRIP4_AM,Route B - AM,0,B1,p_1433132,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562324_b_80417_tn_0,B2_TRIP1_PM,Route B - PM,0,B2,p_1433134,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562323_b_80417_tn_0,B2_TRIP6_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562335_b_80417_tn_0,B1_TRIP7_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562333_b_80417_tn_0,B1_TRIP3_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562322_b_80417_tn_0,B1_TRIP4_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562334_b_80417_tn_0,B1_TRIP6_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562332_b_80417_tn_0,B1_TRIP2_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562331_b_80417_tn_0,B1_TRIP5_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562330_b_80417_tn_0,B1_TRIP1_PM,Route B - PM,0,B1,p_1433134,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562329_b_80417_tn_0,B2_TRIP7_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562328_b_80417_tn_0,B2_TRIP3_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562327_b_80417_tn_0,B2_TRIP2_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562326_b_80417_tn_0,B2_TRIP5_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69245_b_80417_d_31,t_5562325_b_80417_tn_0,B2_TRIP4_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634360_b_80686_tn_0,B1_TRIP1_PM,Route B - PM,0,B1,p_1433134,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634414_b_80686_tn_0,B1_TRIP3_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634413_b_80686_tn_0,B1_TRIP2_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634412_b_80686_tn_0,B1_TRIP5_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634411_b_80686_tn_0,B2_TRIP7_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634410_b_80686_tn_0,B2_TRIP3_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634409_b_80686_tn_0,B2_TRIP2_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634408_b_80686_tn_0,B2_TRIP5_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634407_b_80686_tn_0,B2_TRIP4_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634406_b_80686_tn_0,B2_TRIP6_PM,Route B - PM,0,B2,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634405_b_80686_tn_0,B1_TRIP4_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634404_b_80686_tn_0,B2_TRIP1_PM,Route B - PM,0,B2,p_1433134,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634361_b_80686_tn_0,B1_TRIP7_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5785,c_69540_b_80686_d_31,t_5634415_b_80686_tn_0,B1_TRIP6_PM,Route B - PM,0,B1,p_1433133,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562321_b_80417_tn_0,A1_TRIP3_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562315_b_80417_tn_0,A1_TRIP4_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562316_b_80417_tn_0,A1_TRIP6_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562317_b_80417_tn_0,A1_TRIP7_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562318_b_80417_tn_0,A1_TRIP1_PM,Route A - PM,0,A1,p_899116,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562319_b_80417_tn_0,A1_TRIP2_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69245_b_80417_d_31,t_5562320_b_80417_tn_0,A1_TRIP5_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630172_b_none_tn_0,A1_TRIP1_PM,Route A - PM,0,A1,p_899116,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630173_b_none_tn_0,A1_TRIP2_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630175_b_none_tn_0,A1_TRIP3_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630174_b_none_tn_0,A1_TRIP5_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630169_b_none_tn_0,A1_TRIP4_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630170_b_none_tn_0,A1_TRIP6_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69529_b_none_d_127,t_5630171_b_none_tn_0,A1_TRIP7_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634358_b_80686_tn_0,A1_TRIP5_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634359_b_80686_tn_0,A1_TRIP3_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634353_b_80686_tn_0,A1_TRIP4_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634354_b_80686_tn_0,A1_TRIP6_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634355_b_80686_tn_0,A1_TRIP7_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634356_b_80686_tn_0,A1_TRIP1_PM,Route A - PM,0,A1,p_899116,1,1,,,,,,,,,,
-5786,c_69540_b_80686_d_31,t_5634357_b_80686_tn_0,A1_TRIP2_PM,Route A - PM,0,A1,p_899129,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562337_b_80417_tn_0,C2_TRIP5_AM,Route C - AM,0,C2,p_899097,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562338_b_80417_tn_0,C2_TRIP4_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562339_b_80417_tn_0,C1_TRIP3_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562340_b_80417_tn_0,C2_TRIP2_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562341_b_80417_tn_0,C2_TRIP3_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562342_b_80417_tn_0,C1_TRIP1_AM,Route C - AM,0,C1,p_1275948,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562343_b_80417_tn_0,C1_TRIP5_AM,Route C - AM,0,C1,p_899097,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562344_b_80417_tn_0,C1_TRIP4_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562345_b_80417_tn_0,C2_TRIP1_AM,Route C - AM,0,C2,p_1275948,1,1,,,,,,,,,,
-5787,c_69245_b_80417_d_31,t_5562336_b_80417_tn_0,C1_TRIP2_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630178_b_none_tn_0,C1_TRIP2_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630179_b_none_tn_0,C2_TRIP5_AM,Route C - AM,0,C2,p_899097,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630180_b_none_tn_0,C2_TRIP4_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630181_b_none_tn_0,C1_TRIP3_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630182_b_none_tn_0,C2_TRIP2_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630183_b_none_tn_0,C2_TRIP3_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630184_b_none_tn_0,C1_TRIP1_AM,Route C - AM,0,C1,p_1275948,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630185_b_none_tn_0,C1_TRIP5_AM,Route C - AM,0,C1,p_899097,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630186_b_none_tn_0,C1_TRIP4_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69529_b_none_d_127,t_5630187_b_none_tn_0,C2_TRIP1_AM,Route C - AM,0,C2,p_1275948,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634369_b_80686_tn_0,C1_TRIP5_AM,Route C - AM,0,C1,p_899097,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634362_b_80686_tn_0,C1_TRIP2_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634363_b_80686_tn_0,C2_TRIP5_AM,Route C - AM,0,C2,p_899097,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634364_b_80686_tn_0,C2_TRIP4_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634365_b_80686_tn_0,C1_TRIP3_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634366_b_80686_tn_0,C2_TRIP2_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634367_b_80686_tn_0,C2_TRIP3_AM,Route C - AM,0,C2,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634368_b_80686_tn_0,C1_TRIP1_AM,Route C - AM,0,C1,p_1275948,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634370_b_80686_tn_0,C1_TRIP4_AM,Route C - AM,0,C1,p_899133,1,1,,,,,,,,,,
-5787,c_69540_b_80686_d_31,t_5634371_b_80686_tn_0,C2_TRIP1_AM,Route C - AM,0,C2,p_1275948,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562346_b_80417_tn_0,C1_TRIP1_PM,Route C - AM,0,C1,p_1304609,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562347_b_80417_tn_0,C2_TRIP1_PM,Route C - AM,0,C2,p_1304609,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562348_b_80417_tn_0,C1_TRIP3_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562349_b_80417_tn_0,C1_TRIP2_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562350_b_80417_tn_0,C1_TRIP4_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562351_b_80417_tn_0,C1_TRIP5_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562352_b_80417_tn_0,C1_TRIP6_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562353_b_80417_tn_0,C2_TRIP5_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562354_b_80417_tn_0,C2_TRIP2_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562355_b_80417_tn_0,C2_TRIP4_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562356_b_80417_tn_0,C2_TRIP3_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69245_b_80417_d_31,t_5562357_b_80417_tn_0,C2_TRIP6_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634380_b_80686_tn_0,C2_TRIP2_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634381_b_80686_tn_0,C2_TRIP4_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634379_b_80686_tn_0,C2_TRIP5_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634378_b_80686_tn_0,C1_TRIP6_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634377_b_80686_tn_0,C1_TRIP5_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634376_b_80686_tn_0,C1_TRIP4_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634375_b_80686_tn_0,C1_TRIP2_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634374_b_80686_tn_0,C1_TRIP3_PM,Route C - PM,0,C1,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634373_b_80686_tn_0,C2_TRIP1_PM,Route C - AM,0,C2,p_1304609,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634372_b_80686_tn_0,C1_TRIP1_PM,Route C - AM,0,C1,p_1304609,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634383_b_80686_tn_0,C2_TRIP6_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5788,c_69540_b_80686_d_31,t_5634382_b_80686_tn_0,C2_TRIP3_PM,Route C - PM,0,C2,p_1304607,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562361_b_80417_tn_0,D2_TRIP3_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562362_b_80417_tn_0,D2_TRIP4_AM,Route D - AM,0,D2,p_1277588,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562363_b_80417_tn_0,D1_TRIP4_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562366_b_80417_tn_0,D1_TRIP3_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562365_b_80417_tn_0,D1_TRIP2_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562364_b_80417_tn_0,D1_TRIP5_AM,Route D - AM,0,D1,p_1277588,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562358_b_80417_tn_0,D1_TRIP1_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562359_b_80417_tn_0,D2_TRIP1_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69245_b_80417_d_31,t_5562360_b_80417_tn_0,D2_TRIP2_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630201_b_none_tn_0,D2_TRIP1_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630200_b_none_tn_0,D1_TRIP1_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630207_b_none_tn_0,D1_TRIP2_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630206_b_none_tn_0,D1_TRIP5_AM,Route D - AM,0,D1,p_1277588,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630205_b_none_tn_0,D1_TRIP4_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630204_b_none_tn_0,D2_TRIP4_AM,Route D - AM,0,D2,p_1277588,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630208_b_none_tn_0,D1_TRIP3_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630203_b_none_tn_0,D2_TRIP3_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69529_b_none_d_127,t_5630202_b_none_tn_0,D2_TRIP2_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634390_b_80686_tn_0,D1_TRIP5_AM,Route D - AM,0,D1,p_1277588,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634392_b_80686_tn_0,D1_TRIP3_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634391_b_80686_tn_0,D1_TRIP2_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634388_b_80686_tn_0,D2_TRIP4_AM,Route D - AM,0,D2,p_1277588,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634387_b_80686_tn_0,D2_TRIP3_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634386_b_80686_tn_0,D2_TRIP2_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634385_b_80686_tn_0,D2_TRIP1_AM,Route D - AM,0,D2,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634384_b_80686_tn_0,D1_TRIP1_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5789,c_69540_b_80686_d_31,t_5634389_b_80686_tn_0,D1_TRIP4_AM,Route D - AM,0,D1,p_899079,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562375_b_80417_tn_0,D1_TRIP5_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562376_b_80417_tn_0,D2_TRIP2_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562377_b_80417_tn_0,D2_TRIP3_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562374_b_80417_tn_0,D1_TRIP3_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562373_b_80417_tn_0,D1_TRIP2_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562372_b_80417_tn_0,D2_TRIP4_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562371_b_80417_tn_0,D2_TRIP5_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562370_b_80417_tn_0,D2_TRIP6_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562369_b_80417_tn_0,D1_TRIP1_PM,Route D - PM,0,D1,p_899080,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562368_b_80417_tn_0,D1_TRIP4_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69245_b_80417_d_31,t_5562367_b_80417_tn_0,D2_TRIP1_PM,Route D - PM,0,D2,p_899080,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630212_b_none_tn_0,D2_TRIP6_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630211_b_none_tn_0,D1_TRIP1_PM,Route D - PM,0,D1,p_899080,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630210_b_none_tn_0,D1_TRIP4_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630209_b_none_tn_0,D2_TRIP1_PM,Route D - PM,0,D2,p_899080,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630213_b_none_tn_0,D2_TRIP5_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630219_b_none_tn_0,D2_TRIP3_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630218_b_none_tn_0,D2_TRIP2_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630217_b_none_tn_0,D1_TRIP5_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630216_b_none_tn_0,D1_TRIP3_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630215_b_none_tn_0,D1_TRIP2_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69529_b_none_d_127,t_5630214_b_none_tn_0,D2_TRIP4_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634395_b_80686_tn_0,D1_TRIP1_PM,Route D - PM,0,D1,p_899080,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634402_b_80686_tn_0,D2_TRIP2_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634394_b_80686_tn_0,D1_TRIP4_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634403_b_80686_tn_0,D2_TRIP3_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634393_b_80686_tn_0,D2_TRIP1_PM,Route D - PM,0,D2,p_899080,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634401_b_80686_tn_0,D1_TRIP5_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634400_b_80686_tn_0,D1_TRIP3_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634399_b_80686_tn_0,D1_TRIP2_PM,Route D - PM,0,D1,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634398_b_80686_tn_0,D2_TRIP4_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634397_b_80686_tn_0,D2_TRIP5_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
-5790,c_69540_b_80686_d_31,t_5634396_b_80686_tn_0,D2_TRIP6_PM,Route D - PM,0,D2,p_1304610,1,1,,,,,,,,,,
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+e321d30b-b82a-48d6-bce8-74cae350a126,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+08e92879-353f-4e22-a439-6b9c985f334b,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+29ec806c-4e65-41f1-a6a4-847be3057456,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+a1429a9d-373c-4e16-9fc9-d9bbb2a6c63f,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+0b88a4be-f4f3-440e-8d97-5c541c6fc7be,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+e6bec79f-9be7-48b3-a4da-04c2cbb858c2,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+9481e711-47e8-4cd5-ab33-d3af499a608b,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+7396555e-b687-499f-b258-635202169002,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+9a284da0-a30e-4600-94fb-1ac529641940,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+61f5dd9c-8b17-47b1-9432-a6b00601ea04,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+168106e7-2b27-462a-a076-1a2a4c90741e,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,a7763dad-1781-499d-8598-68c5cb99a176,0,0
+b1ca1d20-6b0d-4e47-929c-2221628134a5,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+2b229351-bc76-46d1-861a-4cb67a9c569c,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,e95e3fa3-1794-41a4-8e9d-9c70a1987ae0,0,0
+50c5d6d1-3123-4e79-a905-370c7d0d904a,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,a7763dad-1781-499d-8598-68c5cb99a176,0,0
+fc949fa0-3546-4fbb-84fe-6085f61b530e,20473,07ead269-62d3-495a-b91c-b9891514cff3,Route B,B - PM Concert,,,a7763dad-1781-499d-8598-68c5cb99a176,0,0
+930f97e0-03a6-4f41-adf4-1b61bb2f7974,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+d4d97859-bc99-455b-86ac-cae5831e4e8a,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+eefcceec-8637-46f7-89e3-cf4d4afe9d47,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+72dee52c-0e9f-453d-ae20-75c381b5ac44,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+f9a720f0-b570-4219-a127-9a7e5c832a48,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+71a5fd36-2984-429a-8f8b-dcb062331771,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+34917d7a-a39c-43bb-b685-67b85fa833fa,Red_Weekend,10bb4e97-359b-4f8b-87b7-8b39c8ff2ee1,MVCS - Red,,,,323edc60-0039-4b78-a131-608ac463248a,1,1
+t_5562316_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562315_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562319_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562321_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562320_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562317_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,5071570b-a15d-4a49-83d7-12c0211606ff,0,0
+t_5562318_b_80417_tn_0,5786,13355039-e076-4f7d-ba9d-4bdbb5d1cbdb,Route A,A - PM,,,de4fa94b-0d37-4294-ac76-bb84e9053700,0,0
+5ca08a1b-8421-4659-a904-791143611e4b,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+93a728d1-e945-4107-a24f-5f24e100c7a3,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+18a2b79a-29e2-45b4-ad34-cf7791ae5c85,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+c5ea35b6-c8b6-44cd-bea3-ab1d547ed9ab,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+42d822bd-920e-4fbe-941b-5d8cb3927b1a,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+522da686-ad6d-4369-adc6-b979a7a2a785,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+ce6deb73-4744-4ea0-a532-a9949e2f7baa,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+0b8a4f2f-0452-4ddc-9b67-54562bc6d653,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+0dc6d9dd-9661-4cfc-8b73-9e7efd41ac2a,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+89c1bfa8-2af5-4647-b302-696bac69171c,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+43a3b94a-5f43-4d3d-9230-e71cf1549366,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+8edc983f-6423-427f-a1c1-8dbe24780db3,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+60b7f1e2-4f16-4c64-8b1f-0561aae912d8,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+a477335c-62ab-4153-b0dd-da9bbffab086,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+706d4aba-05be-4227-b436-966b431a9a00,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+74a2db8a-26c3-4004-bba9-e63c7e05e6c4,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+5d0c4c33-dc22-435e-b717-f0eef876f997,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+e40043aa-2756-4d3e-9653-c52880b28ad2,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+887fd0a6-75ee-4d27-9fbf-f08d31b21efb,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+9d3cf70f-3ad0-4337-bddf-cb0f9c205ecb,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+0c477710-dbd8-4d44-8668-7108d11afdf2,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+7c18478d-77fb-4a5d-af4e-5f627a579484,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+cdd8f024-d743-4ca4-8212-a5036c9754d0,Red,1757f245-c7c5-49e4-b4b9-374e6068576e,MVCS - Red,,,,18511d1e-971f-4c1e-8c91-19b48ae2753a,1,1
+t_5562375_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562368_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562372_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562373_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562369_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,d98d770e-7d72-43bb-9e5f-2d6f703f22e9,0,0
+t_5562376_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562370_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562377_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562371_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562374_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,22e57523-231a-46ac-a812-00416234306b,0,0
+t_5562367_b_80417_tn_0,5790,26c682f2-cd73-46e8-abe9-f468d87a7e4c,Route D,D - PM,,,d98d770e-7d72-43bb-9e5f-2d6f703f22e9,0,0
+584db884-d079-430c-aa71-c8524c107ae6,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+051b6679-ac43-4872-b404-b5255b63ba54,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+c1de89a5-a0a7-4e01-adfb-abd82698f733,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+75e3de52-cb40-474b-b1ba-643883672116,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+d4f9bc61-1ee1-41b0-a58a-6d764653e716,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+b52e1fe4-508d-4414-a9a6-f0d786c38abb,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+608ab555-7141-4a8b-9be3-314fcde60c84,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+9f6fbd11-d455-406a-afc6-163b62ea0a99,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+a040a742-f06f-456e-8880-8f84743878eb,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,491bec68-283d-460a-af8a-16fb99caaf66,0,0
+5416111e-023a-494d-b49e-12896044a20f,20022,369a3f11-e92a-4fa3-ab8e-f1f8e5993c86,Route C,C - PM Concert,,,4f973a11-1e88-405d-b4ae-d7ba3bedd733,0,0
+08109786-879d-48f8-aedd-852e13562a9e,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+29d8440b-693d-43de-a72d-095a8699851d,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+de18d8fe-04fd-4b6e-9446-6bfb5ab89a9d,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+fc902ce0-ca42-40d9-8715-bc796886de5f,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+cfa07293-ae45-4439-89f8-8baa4adb21ad,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+6b1b44c7-e6d9-4f95-a0ba-66b92ab29f3a,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+4594ba63-ca8e-4072-82bc-fd49ab4ed7c0,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+db1986cb-359b-41c8-b490-1040f8d59581,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+1b9ee42b-aa65-4ec6-b668-7a0ce057a04d,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+a772e017-c21c-44fb-a679-6f4ff86e149b,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+7d933f88-677c-42e3-a62f-65ce02ea0e1b,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,83c67d31-a3de-4156-ae45-bc59ba8cdef6,0,0
+b335da81-c15f-4377-a082-082e9145a42e,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,83c67d31-a3de-4156-ae45-bc59ba8cdef6,0,0
+05b4dd1b-1c01-4c1d-965e-9bac9d6b6a3d,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+e9a01fee-46de-48a9-9954-ad0f0eb8d713,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,2fcd29e5-1736-414f-9e2a-0c72e66cfeee,0,0
+e3651eec-ae76-44b2-9dc4-9cdc61b8d04a,20473,3db18b42-7a53-4071-94b0-96cd5aedfbeb,Route B,B - PM Concert,,,83c67d31-a3de-4156-ae45-bc59ba8cdef6,0,0
+b128aa56-bec9-494c-a9b7-6ae1d58c67b2,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+2cc96df3-4193-4727-bfcb-4f796d56c29f,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+e5e3dd3e-4569-4136-8527-e8ef5426c6ea,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+010e3ec0-e3ae-4492-b01e-6d7d86839a24,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+bd7c33ec-8315-4b15-8992-fe2c56c78e53,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+b49b293b-6e99-47d5-973a-77fdd05fc0f3,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+950ef001-2f18-4d65-a2cc-39a430a05508,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+d4183f8f-e91a-49cb-b2d2-590991a54e3d,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+d380de20-73fd-482f-a8ae-9fc0395a65ed,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+9be18121-a18f-46e6-be50-c75a61eacbb6,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+5609cbee-27b2-4e74-9c66-4bc98ae4fecd,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,06e3a597-31c8-45e4-b6f0-ed6a04380059,0,0
+b1ecd2e1-5096-465b-9517-f84b5bd27537,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+bcb819a9-84be-4eda-8e9b-eeea792aaadd,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,16e9792d-2be3-4248-8833-68b91c79d01c,0,0
+915add0b-cb4e-4c5e-8a65-a8cf8260d997,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,06e3a597-31c8-45e4-b6f0-ed6a04380059,0,0
+c9d8d119-d7cd-4b69-bc3d-9213ffe51038,20473,54b1da69-e362-446b-9c12-c5fe67daf857,Route B,B - PM Concert,,,06e3a597-31c8-45e4-b6f0-ed6a04380059,0,0
+aa73c946-abf9-4fc1-af39-a3adfdee993b,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+319495a2-de86-41c2-9204-bc3def65865a,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+87f2a601-592b-49db-a5c4-0fe4ee51a111,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+b24fbefe-6099-4dc3-85d8-b3366641d7e8,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+7e5e50ff-a40e-4d63-9c24-30b8c0ffa0be,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+7a1638a7-ccde-4d8a-9ded-ef6ae775ed6b,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+148773d4-60b9-48d5-a295-0e1940594779,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+dc5a53ed-9116-47ca-b1a5-d0d8b6bc7536,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+8e25981e-96ac-4a3d-a8eb-1ed9f2933430,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,de643fdd-f391-4b15-8034-2c21bdc13438,0,0
+733fc6c7-f7e7-479b-9c56-6a339b59929d,20022,59f0c86a-a1bb-42af-ad86-89e7a8365abc,Route C,C - PM Concert,,,fee07d25-eff3-4fe8-81a2-e1bb0173dc3e,0,0
+t_5562364_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,d5779894-f108-48c9-8cca-d5b7fc84acb7,0,0
+t_5562363_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562361_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562366_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562360_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562365_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562359_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+t_5562362_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,d5779894-f108-48c9-8cca-d5b7fc84acb7,0,0
+t_5562358_b_80417_tn_0,5789,5c97029e-daba-49ec-8921-5c26815e6677,Route D,D - AM,,,40d3170d-5b1c-42bb-8722-15426399978d,0,0
+022dec3d-16e1-4eb9-adfb-b24497f839af,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+259b14e9-fca8-44ae-87f8-76da7bf15831,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+a18b2acf-c9f6-4ec0-bb04-7c3c77a8561e,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+b5d6cc5d-537c-42df-ae9e-70a1d2fb381b,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+14c2e789-36d2-48d6-8c5f-83c27bcef101,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+47c27510-b426-45d6-aa5d-04749c78197b,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+638209dd-f703-476e-8133-f213abaf20ad,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+8e02c640-b0c8-4f9f-b45d-c13165734555,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+408adbd0-6af7-4ca3-8f20-766169fe7116,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,be07230a-8acc-4ea2-a148-058e5851d9c1,0,0
+4e503a9e-9f20-4142-8f9b-5520c66e455d,20022,6258569d-397b-4731-bea7-c4f3fc0a540e,Route C,C - PM Concert,,,74d5db9d-db50-4f2a-9270-882bc2b4dbb2,0,0
+9ea4e005-5960-4a38-8f21-888efea73f7a,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+53a5a7da-6d7a-46e7-9fcf-19c0d56f689f,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+27866565-0b5c-4fab-a6d9-e40392818891,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+518a494c-8fa8-46d6-939d-bc143a2b2661,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+313e549f-c5ab-49f8-a2a8-269c24a9a5df,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+207e307e-5fae-467a-8b0c-b095466d2309,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+95ecd885-1f1c-4ca0-af1f-c906b0523ee3,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+bec6f9d1-0044-4f27-a70e-8fa4bb98870d,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+5602e366-2d48-42e3-a9db-a9c2fb4bdc61,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+40e271b1-cfd8-48a6-8f94-8af77a7a9e2a,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+ade6fae9-0171-42f1-ac29-ac78a8896db5,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+2ce30b87-f04c-4508-bb18-a35e7e8cd00d,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+ae33c754-fb34-4824-b797-26a157489ee3,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+8b43e419-16e6-47fb-845d-5f5212c56486,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+e9cbbc8e-5530-47f5-8006-dec0235cb201,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+837fad89-a253-42a3-8cae-f4b6b9e8470c,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+e662fdc7-26a9-45b8-bca2-dc1fe2956b0c,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+a9d40ad3-dc59-4b75-a4b1-815bc4e8b314,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+21988153-7ce0-4926-bfb4-7820a964cea1,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+d0b064db-b26e-4201-87f1-5c6ebc6d7a0c,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+c7802121-c350-4d9e-9beb-bc77b7aa5ab7,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+e7414371-f3c8-4505-ba1d-79d800c60d2a,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+3e971376-488b-43ad-894e-f283327fee5c,Gray,79b6b74b-0a42-4e0f-b039-737a150808e2,MVCS - Gray,,,,d7aefb64-08d9-40f0-a02a-d98836ba13cc,1,1
+t_5562329_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562335_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562323_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562334_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562326_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562331_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562325_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562322_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562328_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562333_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562327_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562332_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,4e088057-de4d-4cf6-9e49-2130c7654462,0,0
+t_5562324_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,e283286a-9f5b-4b9a-b563-d7863fb7db33,0,0
+t_5562330_b_80417_tn_0,5785,7aab95d4-f414-4c06-a710-d7f71fa2afe4,Route B,B - PM,,,e283286a-9f5b-4b9a-b563-d7863fb7db33,0,0
+t_5562353_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562351_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562355_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562350_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562356_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562348_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562354_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562349_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562352_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562346_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,ccc48a49-acf2-4c57-b9d5-0521661816b7,0,0
+t_5562357_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,982972ec-5b40-436d-ae37-b3b48dc61e37,0,0
+t_5562347_b_80417_tn_0,5788,7d6b971c-d095-48b5-9d15-6107974d3dbf,Route C,C - PM,,,ccc48a49-acf2-4c57-b9d5-0521661816b7,0,0
+096f5a19-f019-4a27-b9cb-1ba1afc29705,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+c526e022-46bb-4d75-a9e3-5d9a7dcca23c,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+3e7e08fe-9498-4a03-84b9-83e91e28be55,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+07d712fc-3c0e-46c2-85c6-f5868e1e07e6,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+2cac8dd2-8dca-4ff8-9fef-ca28d656e12b,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+21fc4a31-3097-4565-8f5b-c8926c49e8cf,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+ddc35d79-9953-4898-a716-24b916cbac1f,Gray_Weekend,8128849c-6b9f-4113-9983-f9dd431ae7c8,MVCS - Gray,,,,bf0f9afe-5a60-4900-b485-8cdcd805fd9f,1,1
+e1b4f3a0-3c39-4ebe-bd84-b80ce2589bf0,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+cb811164-7bce-4c48-8c84-32a7dd0367bc,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+b9b9dc47-6be5-46dc-9f5c-4e1fd068484a,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+1d9eab49-569a-4115-a194-1e151acb2196,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+87643367-2d2b-424b-9cca-21e5e25b2c59,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+0b4737d7-1489-4d97-b4dd-2ee3f0ee9ba5,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+1e17668b-a711-4e49-bf37-413347d858fe,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+7ad62d23-8a5a-40b0-8860-cc45020bb9e6,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+4f6e7023-003b-4137-9eed-3786ecba04d8,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,cd1826a0-5575-4e6c-a588-2f24da3e6dc8,0,0
+eaee9162-bcb7-4f6e-8a75-5466892e90d0,20022,9e85dcf3-6c32-475f-80dd-d49a45c74f2e,Route C,C - PM Concert,,,14ca375a-c2a8-470a-836c-8ec69bddf033,0,0
+5a78e6fb-67ba-447c-bd93-56e60d6ce7c8,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+4bcdf71b-21fd-48bc-b705-32998c50532d,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+5363f3a6-4b39-45bc-8d3c-9587fb3493a4,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+c134e480-fe00-4c15-b6b5-76951c7f4545,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+406c5dbd-c03b-4364-9d11-e099f6b803dc,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+8a1a39ae-df94-4c96-b54c-8d76011cf2d2,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+7c357508-5640-4ed1-8e09-f857caa2c826,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+601c2e1c-df4e-43bd-93c6-708728540196,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+7697ccca-9b28-4b83-a96e-1769e0314b58,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+d9aef9ce-c34d-4893-adf8-5468f0338684,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+ef4dfda8-aee0-4bf0-8007-196aaa0a24b1,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,8eeac3cb-6bf6-497e-b226-d7a768d40491,0,0
+029e3b82-3a8f-4e28-9815-0a43a1bc6dd7,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+0cd22f76-93c7-4e4e-b3d9-82c957945a50,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,7794ffc2-2845-4b1c-90ec-ba07c88c6ff9,0,0
+77f54495-ea0e-44f9-81b7-be09c3ebdb38,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,8eeac3cb-6bf6-497e-b226-d7a768d40491,0,0
+5e5c1c82-d5a9-4778-86ed-8454d196161d,20473,a34cfa0f-a112-473f-a443-d2e4e1a0e784,Route B,B - PM Concert,,,8eeac3cb-6bf6-497e-b226-d7a768d40491,0,0
+1fe10b61-7762-4c44-acf1-673a33739c9b,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+47d57656-3a3c-4074-a4df-92fee7efbfca,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+542ddb96-950f-4dad-bc1a-663f4ce2608d,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+81dc484f-d860-4e9b-8593-274abaa16840,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+86286720-5850-4617-b52e-fdabd1cd0cba,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+4d928f10-89a5-4455-a534-b98d5b554c54,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+ddc8bf9b-7ce4-450b-8af3-6b894df4c83c,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+ea82dd00-e7a8-486f-92ab-22bb6dc4073c,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+4066b2e5-4751-49dc-948c-e0a3d17fcd10,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+4c310af3-afba-4ff2-a83b-fa176704c81a,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+30d01e14-9d8d-4bd7-bb3b-f98c64d99e40,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,a7d76b74-dbe6-4128-944a-4f2ef2c51486,0,0
+7e699865-1cc7-4889-b419-aa602950a6c5,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+dbca2ec1-cfc4-4da6-b672-3775d44cd436,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,2a5def9d-c3cb-46b7-9c1e-6038f0323672,0,0
+05afb8ed-95f1-4c6d-8798-d10f7eae097f,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,a7d76b74-dbe6-4128-944a-4f2ef2c51486,0,0
+6aba6f65-9451-441d-8fce-8fecc7a2e105,20473,aaf80449-0acb-41bd-801b-e42550287ce2,Route B,B - PM Concert,,,a7d76b74-dbe6-4128-944a-4f2ef2c51486,0,0
+t_5562337_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,14f4faab-40e0-49a5-acb5-1da61f7ac2ff,0,0
+t_5562341_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562339_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562336_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,t_5562336_b_80417_tn_0,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562338_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562344_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562343_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,14f4faab-40e0-49a5-acb5-1da61f7ac2ff,0,0
+t_5562342_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,8e9ae7f2-2a07-4c08-96fc-077cd14be81d,0,0
+t_5562340_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,a5c85ca3-4865-4e94-a646-58a8a4406acd,0,0
+t_5562345_b_80417_tn_0,5787,add21e66-1e31-41ce-98b9-bbf740e6546c,Route C,C - AM,,,8e9ae7f2-2a07-4c08-96fc-077cd14be81d,0,0
+929003a0-4171-490f-b2cd-ffaefbdd8255,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+839c6096-0eac-49ea-898c-5c5b9b14a80c,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+b7e22d8f-932e-4826-9819-e718bd57512f,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+87d2ae4b-da1a-4bce-8bbe-d07354315f8c,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+d4284496-6434-420b-8542-c9b2e73e9d87,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+f323bf48-1906-495e-9635-e59428f50223,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+32e477f8-cf67-404f-9bcd-b9e11f1fd290,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+576aeda4-6f67-4d9d-b420-6f63a15f85e3,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+3242b195-1c47-49c6-a323-9329b0150986,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+91751ade-ffad-4bd4-9b72-f241821efb7f,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+5a1f8f2f-05de-44b3-88ec-06a544bd3593,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,e72c2ca1-ec06-4690-998e-7032cb2010e5,0,0
+90f68381-4008-45d1-b10c-f6ff42b71cae,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+d14d103e-1ff2-4ace-9f1e-d196b94f38a5,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,939d8d01-f044-4ec2-b339-4e3ea61c8f45,0,0
+69d5080a-fbb4-4b83-93c2-8250a329c6c8,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,e72c2ca1-ec06-4690-998e-7032cb2010e5,0,0
+c21eedd4-d3ec-4219-983b-59827be7a2db,20473,b8c7f2c8-7abc-4ae0-bc43-6ed78911fe9e,Route B,B - PM Concert,,,e72c2ca1-ec06-4690-998e-7032cb2010e5,0,0
+6c1e11d2-2aa6-4f7e-b11a-552ec9bf438f,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+8775fef3-6023-429a-b9a8-fff103cb521c,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+0101e250-48da-499a-88f3-848e9c411ecc,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+47e2135c-ce38-4de5-98e1-c4b7d9ecfb1d,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+647fc82e-5bb9-4b78-af1b-2612004f607f,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+4522f5be-5752-44a3-9d44-d0b360a391b9,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+5f315e90-d81d-4b49-b1e7-7ecfbcfc067f,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+422fc02b-143c-4357-b004-04da619423aa,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+378ef20f-77cd-4129-9e6f-1f0eee660044,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+7b6adc76-2b95-4d57-a75e-7e60b7471845,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+8f95d387-6a5d-4fb7-a0c8-65d1db3535e8,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,137fbd10-19aa-4835-8bc2-3805e4cdb704,0,0
+eb074bb0-cabe-480d-9f0a-d5d0bee25593,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+bbbd3680-6d69-4498-b2ef-4e67b4edc5d6,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,681a6402-bd39-4a99-9332-3922e3040d1a,0,0
+81291c94-fe83-4975-b20d-b0a89c717e36,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,137fbd10-19aa-4835-8bc2-3805e4cdb704,0,0
+93df8fd0-ee79-4189-9220-53b673ab72dd,20473,c7ef33e5-adc3-4363-b64b-3de390a0b957,Route B,B - PM Concert,,,137fbd10-19aa-4835-8bc2-3805e4cdb704,0,0
+t_5562309_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A- AM,,,14d6fa45-ec4b-43d3-bb86-fcef4509a219,0,0
+t_5562310_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A- AM,,,14d6fa45-ec4b-43d3-bb86-fcef4509a219,0,0
+t_5562312_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A- AM,,,14d6fa45-ec4b-43d3-bb86-fcef4509a219,0,0
+t_5562311_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A - AM,,,14d6fa45-ec4b-43d3-bb86-fcef4509a219,0,0
+t_5562313_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A - AM,,,14d6fa45-ec4b-43d3-bb86-fcef4509a219,0,0
+t_5562314_b_80417_tn_0,5783,cd996998-d271-473b-abf8-a58fbfc6bb52,Route A,A - AM,,,2f0df5e5-6ae8-4a92-a92f-7b584593783c,0,0
+ffc03ca1-8b79-46e7-9be7-55e04d3b5a47,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+92c452c7-5307-4006-bbd1-3a7df00d025c,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+0f7f6e3b-740a-4db5-bae1-9e079aba4d54,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+454a4604-b5a6-4dad-9d26-19403d79397f,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+e35cac16-1052-4afb-8537-a4cbb47333d3,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+de975f91-627b-44e3-a54c-fbe5348a8080,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+135b1e25-98a5-4c79-92f6-f36653c96718,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+7042b26a-6f01-47bf-a136-ea71046bd329,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+8e528dba-7354-4bcf-8211-ba07ead0882a,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,c282c0d3-4797-4b07-aa2a-27d807351d18,0,0
+867f5cd0-0c84-4a38-bdd5-739a7ac4769a,20022,d0230719-2ead-47c1-8155-8500d7903e25,Route C,C - PM Concert,,,a25dd2be-868b-461e-9bf6-0d51f3a61dd6,0,0
+t_5562250_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562250_b_80417_tn_0,aa6ca6af-487f-4143-8c24-7e180f750b39,0,0
+t_5562254_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562254_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562251_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562251_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562253_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562253_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562249_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562249_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562255_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562255_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562248_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562248_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562252_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562252_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562247_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B - AM,,t_5562247_b_80417_tn_0,71e7a0c4-1b8d-4358-a8f1-a0986b6f673e,0,0
+t_5562256_b_80417_tn_0,5784,d0a33f3c-3141-4444-9832-0f6cc8364b16,Route B,B- AM,,t_5562256_b_80417_tn_0,aa6ca6af-487f-4143-8c24-7e180f750b39,0,0
+89b46930-4820-4273-ab46-ae0132715534,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+1c6f1187-846c-4755-85db-6345f01fb865,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+ef32c59f-a71b-4c26-9ec1-fb184e371ed8,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+d3a61000-89db-42a3-85be-55339cd0cbf5,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+4777b1f4-9656-45fb-a588-4f40f8e0a5f1,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+7e987812-b88f-4317-8b42-b66ae752193b,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+f90e6b55-cb93-4d5d-aab1-567dd2c045fb,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+2c92f12e-e4dc-4ae6-9e1b-4f11f8d48815,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+961693dd-1734-494e-ae36-32193dabc0cb,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,9e441907-5011-4e5a-b757-97905743f42a,0,0
+595e3901-c0f2-41c3-83ec-d9c2c4d267f0,20022,daf3d0b2-6a85-43db-8f83-41dfe9f138ce,Route C,C - PM Concert,,,bbde3e25-a247-4666-ba70-56681db8cedf,0,0
+0c362144-834c-4804-b348-0c5d82703065,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+28b55aa1-965e-474b-b5f6-8e7aa388ea69,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+0ec786cc-c702-4058-8d27-e5e85d5652cf,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+2be77b11-8f8e-4dd3-8acf-13c376f7b207,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+7c3261c0-caa7-4409-9e44-a92237158121,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+a3c23ce7-caaa-491b-a3db-dcdbd1f80f30,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+cdef6185-afd7-441f-8240-3ae65bec5789,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+1d04415d-d6a7-4a1f-a748-84835b13cfed,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+a0b0a990-085e-4849-a4c0-ea38d513b094,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,34979459-62be-46fc-a882-f4b4b19f83fb,0,0
+4e0bb427-2579-4bfe-8c16-36d747a77f58,20022,e07f31b2-aa53-4a30-88c0-f94aa3f3d9d8,Route C,C - PM Concert,,,d342b8f3-0920-47a0-9051-120bfd5fa18a,0,0
+c40c6fc3-29b6-4d0e-a094-0ba54a482d86,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+9096ef01-5827-432c-852d-24c02da0201b,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+82e1b088-b4a7-4611-a2cf-64c6e230dc07,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+91c45f08-36cb-4aef-9caa-1f5d94085654,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+e4b0ade3-50c1-4927-9ac2-56b171c018a4,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+b118dfa3-77d2-4125-ae2f-d13324aec160,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+b89917ad-c1f0-44e5-9b2a-1d1bf92caf53,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+3a99ba04-f96a-4457-8d19-5d3a3e0adf9e,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+e423ac19-c39f-46c4-9f16-792c95a17ff1,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,dd3e39c8-56f5-415f-8582-f02939a6ac54,0,0
+dd3e18cd-a667-48d9-9b9b-f840c0832f90,20022,e6512191-350b-44d5-b501-9dd453ddbdd3,Route C,C - PM Concert,,,8c8d4d90-e65e-4a55-96ca-6925af2ff83f,0,0
+18768658-a7e3-47e2-a84b-38616ae9df39,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+29b5b372-d223-4053-ba2b-04751bb15600,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+78e16909-58fa-4414-9a2e-e2db2e910d42,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+f08065dd-62f4-442d-b46f-cff8d68f2a87,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+5d3dacfa-c1a9-4e77-9142-6aad60b91182,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+a382bb82-ae24-47bb-b961-3d07908bf3d6,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+5bdb5dce-63fd-45fb-9ed8-02f4a652aec2,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+ec8cafe8-b6f0-4e6b-8049-f020545907d8,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+1faacfab-692d-42cf-835d-66efa2a5e777,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+6ef64dc2-4308-471a-a1de-be4c151efcf9,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+a2d7b29d-c750-48e3-8884-0d911e4c92f1,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,b341f8d9-12d1-4739-ae5e-b292140ba3b7,0,0
+c3a2b926-0227-4392-b804-2a0d24f7d2a5,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+0ebe5877-a6ca-412c-bdea-7223b75269c4,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,31b94a6b-ed63-474d-8541-0bf70d8edfc9,0,0
+634afe2b-cf02-45fd-a1d4-e15726053a27,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,b341f8d9-12d1-4739-ae5e-b292140ba3b7,0,0
+0534aabd-6d57-40fe-919b-bcc65f26649e,20473,f0b0ffd8-363d-4d0a-9fd2-d3201a30c66d,Route B,B - PM Concert,,,b341f8d9-12d1-4739-ae5e-b292140ba3b7,0,0
