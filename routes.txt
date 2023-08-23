@@ -1,11 +1,11 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-20473,,B,MVgo - B PM Concert,,3,,E02646,FFFFFF,,1,1
-5787,,C,MVgo - C AM,,3,,43B5AE,FFFFFF,,1,1
-5786,,A,MVgo - A PM,,3,,1F51FF,FFFFFF,,1,1
-5784,,B,MVgo - B AM,,3,,E08926,FFFFFF,,1,1
-5789,,D,MVgo - D AM,,3,,FDDD00,000000,,1,1
-5783,,A,MVgo - A AM,,3,,1F51FF,FFFFFF,,1,1
-5785,,B,MVgo - B PM,,3,,E08926,FFFFFF,,1,1
-20022,,C,MVgo - C PM Concert,,3,,12EB4B,FFFFFF,,1,1
-5788,,C,MVgo - C PM,,3,,43B5AE,FFFFFF,,1,1
-5790,,D,MVgo - D PM,,3,,FDDD00,000000,,1,1
+20473,,B - PM Concert,"Middlefield, Crittenden, Shoreline",,3,,E02646,FFFFFF,,1,1
+5787,,C - AM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,,43B5AE,FFFFFF,,1,1
+5786,,A - PM,"Middlefield, Clyde & Whisman",,3,,1F51FF,FFFFFF,,1,1
+5784,,B - AM,"Shoreline, La Avenida, Crittenden",,3,,E08926,FFFFFF,,1,1
+5789,,D - AM,"San Antonio, Garcia & Charleston (Clockwise loop)",,3,,FDDD00,000000,,1,1
+5783,,A - AM,"Whisman, Clyde & Middlefield",,3,,1F51FF,FFFFFF,,1,1
+5785,,B - PM,"Shoreline, Crittenden, La Avenida",,3,,E08926,FFFFFF,,1,1
+20022,,C - PM Concert,"California, San Antonio, W El Camino Real",,3,,12EB4B,FFFFFF,,1,1
+5788,,C - PM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,,43B5AE,FFFFFF,,1,1
+5790,,D - PM,"San Antonio, Garcia & Charleston (Clockwise loop)",,3,,FDDD00,000000,,1,1
