@@ -1,11 +1,11 @@
 route_id,direction_id,direction
-20473,,Route B Concert Loop
-5787,,Route C Loop
-5786,,Route A Loop
-5784,,Route B Loop
-5789,,Route D Loop
-5783,,Route A Loop
-5785,,Route B Loop
-20022,,Route C Concert Loop
-5788,,Route C Loop
-5790,,Route D Loop
+20473,,Loop
+5787,,Loop
+5786,,Loop
+5784,,Loop
+5789,,Loop
+5783,,Loop
+5785,,Loop
+20022,,Loop
+5788,,Loop
+5790,,Loop
