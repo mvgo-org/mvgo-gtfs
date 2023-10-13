@@ -1,6 +1,5 @@
 stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
 866000,866000,Mountain View Transit Center (MVTC),,,37.3945665861344,-122.077133247549,,,0,,,1,,
-866022,866022,468 Ellis St (Google QD3),FourSixtyEight Ellis Street Google Queue Dee Three,,37.3998287152803,-122.054841693562,,,0,,,1,,
 866028,866028,Ferry Morse @ E Evelyn,Ferry Morse at East Evellynn,,37.3879471299646,-122.062941158325,,,0,,,1,,
 866027,866027,Whisman @ Middlefield,,,37.396697,-122.059886,,,0,,,1,,
 866011,866011,Pear @ Inigo,Pear at inaye-go,,37.415427,-122.076167,,,0,,,1,,
