@@ -1,81 +1,162 @@
 trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-b2495fbd-3e54-4c0d-8c01-0bdf755107a7,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,e43b0d99-f8ad-4747-b9cf-4faea70c7008,1,1
-30bdb1b9-efc5-4e92-a5a6-ea0eddc92a61,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,e43b0d99-f8ad-4747-b9cf-4faea70c7008,1,1
-9e7db4e6-9aed-42d5-b2df-ac386fe24266,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,e43b0d99-f8ad-4747-b9cf-4faea70c7008,1,1
-74beef96-3294-40ca-a004-70e89a068a0c,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,e43b0d99-f8ad-4747-b9cf-4faea70c7008,1,1
-1facc11a-24e1-43e4-be11-a6110c1827ed,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,e43b0d99-f8ad-4747-b9cf-4faea70c7008,1,1
-1e8fd9dd-b017-44c0-a084-2fc858f44284,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,aab827c5-f188-4903-91bf-686770c41e4a,1,1
-bf8f8209-2a3a-405d-b820-34f56a19ac09,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,4045611c-c23d-4b31-8078-bb1fe9978a11,1,1
-22960af8-eb23-46ad-9788-b4c81dc28de2,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,4045611c-c23d-4b31-8078-bb1fe9978a11,1,1
-996d3863-89be-406d-969b-bab0d7d3210e,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-9226883b-6d11-480d-b03b-31e212e7d297,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-839c9c43-cfca-4b8d-8864-24ddc7d7cab9,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-3a888d94-b82c-4a1a-b11e-bb62c54d281b,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-7c8d1d53-969d-490c-b99f-d3aba679e3f6,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-622f18b0-823f-4875-962a-ddaa36d32387,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-c82a2be9-0f22-4923-b3f1-b35ce170fdf6,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,e91451f1-2b64-470f-95f1-ea44bccbb5a9,1,1
-2ddd7070-15bc-4371-9234-612517b7f78a,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,34b6f5af-cdf4-4d5d-b2e4-63e27c507bc3,1,1
-3c96a3fb-f092-4dd7-89a2-86798c9fc6ff,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,34b6f5af-cdf4-4d5d-b2e4-63e27c507bc3,1,1
-ab81ffdd-34dd-4cf3-af31-65c36488bbb8,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-367baec1-95cd-48e4-93fe-e781c903c0db,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-7bc4d1f8-1c0e-4801-a38d-b7540d7349c4,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-fc7fce12-04aa-4519-9bae-9e8bb532fd25,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-007657b9-66ba-401d-8b69-58967f880683,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-ef6ab578-0c76-46cc-8503-c2d071cd22e1,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-de1325d3-50eb-4858-bc91-51b115f63e85,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,17eeac8c-0664-4d00-9ce5-675827553058,1,1
-228dd9bf-f911-41d8-9a47-1da3c7f9704e,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,13914013-c41e-4760-abed-d5ae34f0d84b,1,1
-d4c74a22-aaec-4543-980d-efd0a8c4e64a,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,13914013-c41e-4760-abed-d5ae34f0d84b,1,1
-6ba8c685-580c-47b4-9ec1-ddfebd723aaf,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-84a85e00-d46c-4fa4-9b0a-a23a50c34580,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-232fac7f-39e9-489f-a6db-a4deaa6b4f85,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-ee932baa-96bc-45d8-bdfb-55c116599631,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-e34a4f07-602a-4994-bd47-81ca5edf09c5,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-cebedc21-424a-4563-84e4-1aca4594ce58,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-f02b05b3-9b49-45bf-a5ab-d736c92b66b4,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-ada604a5-3806-42ee-bcc5-6bb11242d149,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-21bd1e57-7fc7-49b2-9322-9349ea9267c6,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-05f5d388-f43a-41be-b864-2780830201b3,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-22b1f41d-d3bf-43b6-bb7e-2cf59212e43e,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,39ebfc1f-fc16-45de-89b3-326882f94936,1,1
-962d60ae-3c9d-455f-919d-db1c943e17ab,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,cb685210-1ce2-4002-92ca-278d762e39d9,1,1
-30f99607-6104-455f-86cc-d66ca59e64e1,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,39ebfc1f-fc16-45de-89b3-326882f94936,1,1
-681667fc-a731-4301-9466-3fcad8ebc8d6,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-fc3502f5-0d3e-40b3-8cbc-0d5d953175ba,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-9c022995-bb18-4c0f-9a4a-ead8551cf86c,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-e0853e00-6be3-4413-9333-092dbd6a9489,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-b2e76cc1-36bd-437a-a0d5-b31fc46bdb85,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-36accef2-6e8e-4e72-96ec-115332067789,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-2d785f25-6c3e-453b-bcaf-20b80484df6b,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-a0c17b41-90bf-413e-95e2-0b5107d0ed40,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-b4ba2018-a858-4c69-8aca-fde2980834a9,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-0c65655a-a440-4ba7-ac13-dabf95329467,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5ef3bc79-2f71-4087-93a0-b9f4e98b4ff3,1,1
-a0f790c9-7053-403c-8fac-ababa1cd804c,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5e9a2f1b-d09d-4bbe-a50c-891b43e9d65b,1,1
-cf8fb43d-dc0d-45e1-a4cc-49f9bfc9f9f8,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,5e9a2f1b-d09d-4bbe-a50c-891b43e9d65b,1,1
-24b9ee22-a743-4dfc-b813-3e1b8f1fd769,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-9ba775c5-55e9-4734-be6c-dabd5ed5d778,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-2f1f41cc-7250-49e7-99e9-9a680ebc1652,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-4c59ea46-f923-4617-a995-3165278c4b3a,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-f3fff574-3fe3-44ca-aee6-7cc562a532fe,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-a6ba1775-1b9f-4d4f-9d00-b584fd4469f0,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-1c2ea9ff-a2e1-4520-8ebc-e143c2627a96,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,3a5267f9-f3e8-455b-9506-77d5417b7e45,1,1
-318a79a8-a073-4027-abce-ea25ad30c114,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-8975c563-df61-4080-b970-412ca1645fa8,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-a8c1e216-115c-4fe8-b37e-b42795e9d913,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,3a5267f9-f3e8-455b-9506-77d5417b7e45,1,1
-34426205-df08-42fa-b520-39b25426ac13,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e0d14b61-4ca6-4ad5-b6d7-9f6070d870ae,1,1
-2da72390-05e8-4eb6-8c87-e3f0f2ee35f8,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-4d8751f4-3c0d-4b25-9f27-c6d1290338a4,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-6f655ef8-71ce-43c0-82e9-28ccb743e83f,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-1a3c2714-76c1-4e2c-a566-f356a2eb11ba,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-369ea05d-4553-4e65-b1a1-89c94f8d8c89,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-86f297fc-c459-4e7a-ae36-41353f33e077,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,1720b6c6-faed-4da0-bb3a-163f3f0815ca,1,1
-91477fcf-cadb-4fb5-a371-b4cbd81ea63c,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,865b9930-fc95-40f1-ac8b-bbe718a6ef63,1,1
-01f77a30-7ff8-4965-9771-4176927ac50c,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,d7134331-602e-4b07-8ef3-a7b016da790a,1,1
-ec5ea207-bc39-4896-9c37-eb6daa5d8c97,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-584f57a0-d54a-4402-bb45-e5cab9c5ae1e,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-0a637dbf-b6a4-41e8-a417-80251069aacc,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-9cf5e4aa-e26f-4217-a901-7d2ac9ebcdba,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-15fa4a13-ed09-481e-b314-44785ec67125,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-ada36ba0-1e79-45fd-83d3-6448be923996,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-1ff72b99-c663-4fef-a08f-8fa08bd720e0,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-9ea28e7f-7ef8-4779-ac7c-0e718f19ed23,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-e17c5800-f06b-4dd3-a9a1-bc503e246e29,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,547b8201-8c3a-4cf6-8239-4f85d1e3dbd1,1,1
-40c72580-d311-4afd-8395-8e1a93648d78,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,d7134331-602e-4b07-8ef3-a7b016da790a,1,1
+1e8fd9dd-b017-44c0-a084-2fc858f44284,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,60854695-3a72-4a7d-a140-8a7be7f5a4cd,1,1
+b2495fbd-3e54-4c0d-8c01-0bdf755107a7,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
+30bdb1b9-efc5-4e92-a5a6-ea0eddc92a61,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
+9e7db4e6-9aed-42d5-b2df-ac386fe24266,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
+74beef96-3294-40ca-a004-70e89a068a0c,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
+1facc11a-24e1-43e4-be11-a6110c1827ed,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
+bf8f8209-2a3a-405d-b820-34f56a19ac09,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,c52ababe-b6c5-44fc-bff5-7cb1a159c75b,1,1
+22960af8-eb23-46ad-9788-b4c81dc28de2,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,c52ababe-b6c5-44fc-bff5-7cb1a159c75b,1,1
+996d3863-89be-406d-969b-bab0d7d3210e,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+9226883b-6d11-480d-b03b-31e212e7d297,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+839c9c43-cfca-4b8d-8864-24ddc7d7cab9,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+3a888d94-b82c-4a1a-b11e-bb62c54d281b,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+7c8d1d53-969d-490c-b99f-d3aba679e3f6,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+622f18b0-823f-4875-962a-ddaa36d32387,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+c82a2be9-0f22-4923-b3f1-b35ce170fdf6,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
+2ddd7070-15bc-4371-9234-612517b7f78a,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8098efb7-79c2-4554-a107-c981e0688af3,1,1
+ab81ffdd-34dd-4cf3-af31-65c36488bbb8,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+367baec1-95cd-48e4-93fe-e781c903c0db,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+7bc4d1f8-1c0e-4801-a38d-b7540d7349c4,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+fc7fce12-04aa-4519-9bae-9e8bb532fd25,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+007657b9-66ba-401d-8b69-58967f880683,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+ef6ab578-0c76-46cc-8503-c2d071cd22e1,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+de1325d3-50eb-4858-bc91-51b115f63e85,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,b607630e-ba50-458f-947f-6bb6039925fb,1,1
+d4c74a22-aaec-4543-980d-efd0a8c4e64a,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,97718352-d4b9-4a7e-86f8-002a45823bc2,1,1
+228dd9bf-f911-41d8-9a47-1da3c7f9704e,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,97718352-d4b9-4a7e-86f8-002a45823bc2,1,1
+3c96a3fb-f092-4dd7-89a2-86798c9fc6ff,5787,392add8f-c2d8-4da3-a3a7-7cce3f7d6a95,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8098efb7-79c2-4554-a107-c981e0688af3,1,1
+cc3433f9-dd7d-48e9-be84-2f2bf4e4e68e,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+db276f2e-cd9c-4bd7-a4ec-0849fd9366eb,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+8ec93ddf-4007-4b59-9089-a77fc55c5ca9,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+12018465-1ccb-4093-9097-d073504d138c,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+bed6a2c8-18f8-4e0c-b5b9-f0802b2b16d5,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+889d12b2-1ee9-4548-af7d-74f49d8d917c,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+9ea1c5cc-0680-4efc-b198-56cf7f9fcde0,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+d15ab673-f148-49c6-83b2-edc8f4a5122c,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+bb66e344-b42b-4247-a292-29f90247b20d,5790,48c9965f-4dab-44c3-bff4-3143d9e16b77,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,e5942e17-b4dd-4bd3-9d58-9fe4d583b690,1,1
+fc6271b5-d643-4f26-b1c4-0583e0374e96,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+5ab84715-212d-4edc-b150-1b11f2c48a44,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+fb8438c0-a172-475e-ac4e-730e466b6085,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+a66339b2-f206-4f84-a133-adad311cc2f8,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+2982eb81-5124-43bf-9953-0f338b473556,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+401eeff3-6543-4c70-9ea6-a3e7b4a8e525,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+f13fa1e6-57eb-44e9-bd7b-82aa52f672d6,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+cd052e44-45f2-4e6a-838f-abc8eaf2631a,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+6d322fff-7867-4769-90e7-3c4b7dc05640,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+7da9d00e-dfa3-45ef-b199-084d6d95244d,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,81d520e6-7698-4cec-8f64-ce812461477d,1,1
+07bee820-4420-4af4-8004-b2ca9f56c3aa,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,abc2f673-acc7-469f-a83d-eb304aba8d08,1,1
+abb7bba9-486b-48b5-b9d3-12eb2a16ed16,5785,8e17680b-b29d-43ad-81d7-e27d9cb59b9e,"Shoreline, Crittenden, La Avenida",B - PM,0,,abc2f673-acc7-469f-a83d-eb304aba8d08,1,1
+6ba8c685-580c-47b4-9ec1-ddfebd723aaf,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+84a85e00-d46c-4fa4-9b0a-a23a50c34580,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+232fac7f-39e9-489f-a6db-a4deaa6b4f85,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+ee932baa-96bc-45d8-bdfb-55c116599631,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+e34a4f07-602a-4994-bd47-81ca5edf09c5,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+cebedc21-424a-4563-84e4-1aca4594ce58,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+f02b05b3-9b49-45bf-a5ab-d736c92b66b4,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+ada604a5-3806-42ee-bcc5-6bb11242d149,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+21bd1e57-7fc7-49b2-9322-9349ea9267c6,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+05f5d388-f43a-41be-b864-2780830201b3,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+962d60ae-3c9d-455f-919d-db1c943e17ab,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
+30f99607-6104-455f-86cc-d66ca59e64e1,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,91a3fa93-ea50-450e-9fea-50c1dec0ca60,1,1
+22b1f41d-d3bf-43b6-bb7e-2cf59212e43e,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,91a3fa93-ea50-450e-9fea-50c1dec0ca60,1,1
+e19d0320-4bdd-4899-976d-4ede0992b142,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",0,,,f91a5854-bb6f-4b47-a00f-c15bba7135ad,1,1
+403abf64-6eb8-4d28-a804-45767dd7a2a5,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+4b2a296b-4c29-4658-8fa4-5c0d5e475aca,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+28510be0-c2e8-4dcd-9f97-babc7168b394,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+297dbe8b-955a-43db-afd1-5908e06f03d0,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+f0de7d4d-5b78-41ca-b8ab-b2d1808c5604,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+ce46cf45-2bad-48f4-a883-f513a3885837,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
+448ddb58-bbc8-4f54-81d2-9a92be35beb0,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+865ff486-eb4d-47ac-a6e4-ade5188c98e3,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+6021a202-b376-4117-928c-497e56dd5d87,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+8f104761-12ac-43c1-b81c-c9c7a9ac933d,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+2cc99e95-6899-4f24-bd28-821cc9cd96ca,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+6bebc8e3-f823-4a2f-a5a2-881b523c6380,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+7c5fdb2f-ba1f-49be-92fc-11bf75215085,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+e880b145-ad31-4206-abe9-84e949b49bf0,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+c99e4e17-e1c4-40a4-b34a-54379356e106,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+06b6a209-8a5d-4052-a684-22f8d0ac1256,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,398d6a68-4080-4ebe-9e14-bbe8b5a136fa,1,1
+6c194116-37b4-43d9-b8d0-e73f9f563287,5784,ba950365-d716-4c85-be47-766d3949a5d5,"Shoreline, La Avenida, Crittenden",B - AM,0,,9b040d4e-8806-4113-a32e-9406979b103d,1,1
+5a5a02bf-19bb-4b0f-9f62-1dbdf24eaf3b,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+b8a94725-47c4-48d8-8ca9-1eb4fe3dde16,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+86c15c6e-87d5-453e-85d0-aa41efd12de2,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+6e26f0d3-0df6-4e1f-9765-b3c2a7c7c995,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+c1dab0af-c7ef-4cbe-a94b-2b42aad0fb1a,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+bd673171-dab0-4c19-b9e4-02509af99bd8,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+95a95d15-e7c7-4540-aa1d-6b968f39f6eb,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+1c8f6549-0d6b-4e22-8f77-bbf9e134e21c,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+7229d480-7e6f-46bf-a0e9-3843e6ae5eee,5788,bb23842d-37d9-4968-bb76-b708b0fecbb3,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,33e8f25e-6666-4682-87d8-6a5f0c285dd4,1,1
+681667fc-a731-4301-9466-3fcad8ebc8d6,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+9c022995-bb18-4c0f-9a4a-ead8551cf86c,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+e0853e00-6be3-4413-9333-092dbd6a9489,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+b2e76cc1-36bd-437a-a0d5-b31fc46bdb85,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+36accef2-6e8e-4e72-96ec-115332067789,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+2d785f25-6c3e-453b-bcaf-20b80484df6b,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+a0c17b41-90bf-413e-95e2-0b5107d0ed40,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+b4ba2018-a858-4c69-8aca-fde2980834a9,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+0c65655a-a440-4ba7-ac13-dabf95329467,5788,bb585aa3-faba-4699-b796-113855f7637e,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,24ad6f43-c404-4623-90d8-bf3cd24b80f6,1,1
+ddb62b8f-9288-485a-b391-a40b4e8e807a,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8945fdc4-672a-4ef0-8884-dc4120a40834,1,1
+20854304-42d6-4c83-b7fb-aa651e6e91fa,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+24ce5f8a-9258-4e43-b722-f1788a2cbc49,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+949d6cc6-b8eb-4a4a-9f9e-d08eb392e8ed,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+c26a4eaf-9042-4d75-bc89-77cfb2e208c3,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+8dcae9e8-5cbd-4cf0-9c44-9c1dcb818129,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+5a94ab09-e5f2-45e4-ac3d-d1b7853fc5c5,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8fe1f248-acb1-40f6-a37e-aeea22b660ab,1,1
+bc18a684-bbbc-4f48-98ee-f0e6cdc514d0,5787,ca58ad37-9a2c-494c-a519-c603695406a5,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8945fdc4-672a-4ef0-8884-dc4120a40834,1,1
+318a79a8-a073-4027-abce-ea25ad30c114,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+34426205-df08-42fa-b520-39b25426ac13,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+1c2ea9ff-a2e1-4520-8ebc-e143c2627a96,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,5c88a8d5-faac-47ca-a7b5-4dc1415b29f6,1,1
+a6ba1775-1b9f-4d4f-9d00-b584fd4469f0,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+8975c563-df61-4080-b970-412ca1645fa8,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+9ba775c5-55e9-4734-be6c-dabd5ed5d778,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+2f1f41cc-7250-49e7-99e9-9a680ebc1652,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+4c59ea46-f923-4617-a995-3165278c4b3a,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+f3fff574-3fe3-44ca-aee6-7cc562a532fe,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+a8c1e216-115c-4fe8-b37e-b42795e9d913,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,5c88a8d5-faac-47ca-a7b5-4dc1415b29f6,1,1
+24b9ee22-a743-4dfc-b813-3e1b8f1fd769,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
+2da72390-05e8-4eb6-8c87-e3f0f2ee35f8,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+4d8751f4-3c0d-4b25-9f27-c6d1290338a4,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+6f655ef8-71ce-43c0-82e9-28ccb743e83f,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+86f297fc-c459-4e7a-ae36-41353f33e077,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+1a3c2714-76c1-4e2c-a566-f356a2eb11ba,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+91477fcf-cadb-4fb5-a371-b4cbd81ea63c,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,d3b29fcd-f5fa-4c35-8d40-74c30f9b8e8e,1,1
+369ea05d-4553-4e65-b1a1-89c94f8d8c89,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
+1406b62d-5add-4b20-a19e-a922e6ff8462,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+664ebcf9-00a5-4308-83a6-3580e7a25a55,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+3b92ef07-a344-4c97-9322-a60239e921a4,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+f59abc95-9047-4b7a-b2a3-5f6ee18697e7,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+1a7a766c-d2f5-4299-9788-c5e0a363ffb6,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+ebc9ac75-005c-400c-aae7-84ea82561d2d,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+d6b867da-7033-402b-98ce-249c629daa9a,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+0e668be7-2e08-48c3-8952-69423fa805ae,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+40dccdd4-b407-440a-a6ff-8670386453b7,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,50289f48-9dbe-4d41-a920-e45fb81396b6,1,1
+8db13570-2cb1-46da-92f7-7defb0dc3264,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+c346fd35-09df-43eb-93f8-c25cb4af742c,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,50289f48-9dbe-4d41-a920-e45fb81396b6,1,1
+9ea387e1-27f2-47f4-ae1a-dd6392bec404,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
+133aa878-dfa0-4162-bfb2-81d3d362d22d,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,5c61c44d-9149-4fbd-b82b-2536edf7550f,1,1
+0d49039f-742c-48c1-a124-2d9cc3b6777e,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+0fa91f69-9aff-4803-b2cd-2e57e4f6f4d3,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+a5e808d5-78b7-4149-bc92-f3e361c13ada,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+b912d930-e8fc-44aa-810d-2c2da7122179,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+ffc1f60c-d266-4bb7-8b1d-e3bde5c8b3ac,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+32a0b908-7d10-4587-bd78-141aaea6ab03,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+3ae9a6d6-e38e-448a-bbad-c1e20a3960a3,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
+9aee1d2d-7b2e-4542-bd65-594d91d57f67,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",0,,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+36783c09-2d84-4a7e-b5b0-c8668c00c469,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+72fc16a6-f931-4883-bfbb-595880b1c41e,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+abaf6438-855f-4fa4-906b-68b64fd80d71,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+1e28a026-3765-45e9-bd02-47157261e86f,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+9a74b323-a499-42d1-aec1-68075d0ec60a,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+53498c2f-0b53-43eb-aaf1-3276e6e8a518,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+5a91fe31-6e97-4e1b-bb00-11b716f5b171,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,2a86f966-4cb3-4e84-871d-81769a2a62e5,1,1
+40c72580-d311-4afd-8395-8e1a93648d78,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,04187d37-d24f-4032-a957-91ff18e4a902,1,1
+584f57a0-d54a-4402-bb45-e5cab9c5ae1e,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+0a637dbf-b6a4-41e8-a417-80251069aacc,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+9cf5e4aa-e26f-4217-a901-7d2ac9ebcdba,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+15fa4a13-ed09-481e-b314-44785ec67125,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+ada36ba0-1e79-45fd-83d3-6448be923996,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+1ff72b99-c663-4fef-a08f-8fa08bd720e0,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+9ea28e7f-7ef8-4779-ac7c-0e718f19ed23,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+e17c5800-f06b-4dd3-a9a1-bc503e246e29,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1
+01f77a30-7ff8-4965-9771-4176927ac50c,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,04187d37-d24f-4032-a957-91ff18e4a902,1,1
+ec5ea207-bc39-4896-9c37-eb6daa5d8c97,5784,f1fea23f-aed7-45e8-969e-f7dad4a9821a,"Shoreline, La Avenida, Crittenden",B - AM,0,,534d288a-b3e4-4679-aedd-0272aa556bdb,1,1

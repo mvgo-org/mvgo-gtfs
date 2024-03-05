@@ -7,5 +7,3 @@ route_id,direction_id,direction
 5785,0,Loop
 5788,0,Loop
 5790,0,Loop
-20473,0,Loop
-20022,0,Loop

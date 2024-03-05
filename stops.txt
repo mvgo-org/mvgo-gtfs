@@ -1,4 +1,6 @@
 stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
+59a1beba-ea50-46eb-bd6a-a8d73d1fa35d,,Clyde @ Samsung TP,Clyde at Samsung,PM Service Only,37.400852578697,-122.047760594783,,,0,,,1,,
+acef3c19-99a9-43d8-8bb6-2a561f18b38e,,645 Clyde Ave (Samsung Parking Lot) TP,SixFourtyFive Clyde Avenue Samsung,AM Service Only,37.401437427135,-122.04758367268,,,0,,,1,,
 866021,866021,301 E Evelyn Parking Lot,Three Oh One East Evellynn Parking Lot,AM Service Only,37.387655512462,-122.06210117082,,,0,,,1,,
 866010,866010,Shoreline @ Terra Bella TP,,,37.4082669631811,-122.07794025417,,,0,,,1,,
 8662033,8662033,Shoreline @ Terra Bella (SB) TP,Shoreline at Terra Bella Southbound,,37.4081744880165,-122.07819530763,,,0,,,1,,
