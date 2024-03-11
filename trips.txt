@@ -59,7 +59,7 @@ ada604a5-3806-42ee-bcc5-6bb11242d149,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"
 962d60ae-3c9d-455f-919d-db1c943e17ab,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,8950332c-a9fb-46e3-9231-b7716ce012c4,1,1
 30f99607-6104-455f-86cc-d66ca59e64e1,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,91a3fa93-ea50-450e-9fea-50c1dec0ca60,1,1
 22b1f41d-d3bf-43b6-bb7e-2cf59212e43e,5785,a188f82d-92fa-4a6b-ac00-c3e623289edc,"Shoreline, Crittenden, La Avenida",B - PM,0,,91a3fa93-ea50-450e-9fea-50c1dec0ca60,1,1
-e19d0320-4bdd-4899-976d-4ede0992b142,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",0,,,f91a5854-bb6f-4b47-a00f-c15bba7135ad,1,1
+e19d0320-4bdd-4899-976d-4ede0992b142,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,f91a5854-bb6f-4b47-a00f-c15bba7135ad,1,1
 403abf64-6eb8-4d28-a804-45767dd7a2a5,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
 4b2a296b-4c29-4658-8fa4-5c0d5e475aca,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
 28510be0-c2e8-4dcd-9f97-babc7168b394,5783,aeb6540c-f97b-4564-b2fb-18c57af37fde,"Whisman, Clyde & Middlefield",A - AM,0,,1e8fef12-40cb-48cc-be0e-14535204a436,1,1
@@ -141,7 +141,7 @@ b912d930-e8fc-44aa-810d-2c2da7122179,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"
 ffc1f60c-d266-4bb7-8b1d-e3bde5c8b3ac,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
 32a0b908-7d10-4587-bd78-141aaea6ab03,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
 3ae9a6d6-e38e-448a-bbad-c1e20a3960a3,5789,e9ea2f51-09e8-497b-b2a8-647d00701d39,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,24a88dac-33a7-4608-915a-bc76bb155ee7,1,1
-9aee1d2d-7b2e-4542-bd65-594d91d57f67,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",0,,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
+9aee1d2d-7b2e-4542-bd65-594d91d57f67,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
 36783c09-2d84-4a7e-b5b0-c8668c00c469,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
 72fc16a6-f931-4883-bfbb-595880b1c41e,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
 abaf6438-855f-4fa4-906b-68b64fd80d71,5786,f0c825fc-97a2-4d29-86a3-bd366abab903,"Middlefield, Clyde & Whisman",A - PM,0,,c03ef874-58d2-4209-9145-667b60b2a246,1,1
