@@ -1,10 +1,4 @@
 trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-1e8fd9dd-b017-44c0-a084-2fc858f44284,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,60854695-3a72-4a7d-a140-8a7be7f5a4cd,1,1
-b2495fbd-3e54-4c0d-8c01-0bdf755107a7,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
-30bdb1b9-efc5-4e92-a5a6-ea0eddc92a61,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
-9e7db4e6-9aed-42d5-b2df-ac386fe24266,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
-74beef96-3294-40ca-a004-70e89a068a0c,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
-1facc11a-24e1-43e4-be11-a6110c1827ed,5783,1463f568-b2df-45a5-9a08-7c6c3f5ac999,"Whisman, Clyde & Middlefield",A - AM,0,,9321ac70-35de-4c5b-aa48-1173f372705b,1,1
 bf8f8209-2a3a-405d-b820-34f56a19ac09,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,c52ababe-b6c5-44fc-bff5-7cb1a159c75b,1,1
 22960af8-eb23-46ad-9788-b4c81dc28de2,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,c52ababe-b6c5-44fc-bff5-7cb1a159c75b,1,1
 996d3863-89be-406d-969b-bab0d7d3210e,5789,2b541db7-1b18-4c71-a11d-6e4ca10a0043,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,81206885-2be8-4381-bcde-21dd38d628f4,1,1
@@ -114,13 +108,6 @@ a6ba1775-1b9f-4d4f-9d00-b584fd4469f0,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"
 f3fff574-3fe3-44ca-aee6-7cc562a532fe,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
 a8c1e216-115c-4fe8-b37e-b42795e9d913,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,5c88a8d5-faac-47ca-a7b5-4dc1415b29f6,1,1
 24b9ee22-a743-4dfc-b813-3e1b8f1fd769,5790,ca8b96b9-c712-47e6-863d-e600dc534207,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,03abbd88-dc6c-4e4e-9935-21db93fa5105,1,1
-2da72390-05e8-4eb6-8c87-e3f0f2ee35f8,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
-4d8751f4-3c0d-4b25-9f27-c6d1290338a4,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
-6f655ef8-71ce-43c0-82e9-28ccb743e83f,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
-86f297fc-c459-4e7a-ae36-41353f33e077,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
-1a3c2714-76c1-4e2c-a566-f356a2eb11ba,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
-91477fcf-cadb-4fb5-a371-b4cbd81ea63c,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,d3b29fcd-f5fa-4c35-8d40-74c30f9b8e8e,1,1
-369ea05d-4553-4e65-b1a1-89c94f8d8c89,5786,d7ad27bf-92f3-44c2-99ed-1ac5f91225b2,"Middlefield, Clyde & Whisman",A - PM,0,,6b44d43d-1872-4151-9b51-443fc399e055,1,1
 1406b62d-5add-4b20-a19e-a922e6ff8462,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
 664ebcf9-00a5-4308-83a6-3580e7a25a55,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
 3b92ef07-a344-4c97-9322-a60239e921a4,5788,e4647c8d-8435-419a-8762-f8b300d920a7,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,3875557f-0090-412f-bfb1-925a7057a7b0,1,1
