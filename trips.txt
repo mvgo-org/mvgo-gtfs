@@ -83,15 +83,14 @@ f528a266-6189-4324-9db5-d79e0a5be4ff,20022,88f542f0-6070-4dd2-9164-3955e90ecb6a,
 69f952c2-7090-453d-a762-ca35bef82da9,20022,88f542f0-6070-4dd2-9164-3955e90ecb6a,C - Concert,C - PM Concert,0,,738f66c2-a19e-4bd7-8c17-9ee218461b32,1,1
 90077050-4248-4029-952f-1676f743a253,20022,88f542f0-6070-4dd2-9164-3955e90ecb6a,C - Concert,C - PM Concert,0,,738f66c2-a19e-4bd7-8c17-9ee218461b32,1,1
 91aa8a7e-f5e1-483e-aac1-9aa889a3f501,20022,88f542f0-6070-4dd2-9164-3955e90ecb6a,C - Concert,C - PM Concert,0,,738f66c2-a19e-4bd7-8c17-9ee218461b32,1,1
-7f97a574-2b27-45b6-bbea-184205420545,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-d59e6d3c-4be7-439c-8b5a-c038c6583ab7,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-9c724ad1-c8b1-4d3d-8b36-4917bc606fe9,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-e7beaaea-fd7f-4e8d-b172-4aad3b16fcab,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-07678e25-ba1e-4a61-892d-9c72ed56eaeb,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-ffe1d73a-b7eb-4c92-a9ce-d8d1072ff598,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-0a09e457-0ee4-44a4-b0cd-ac25d98a8fa8,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-8eec68ed-f1b9-4830-b3e6-5b8916ac3956,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
-ab71bb6e-adf4-48fb-98f0-915d2d680f29,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,7616a8e9-0fef-4010-a709-1af6f87037b0,1,1
+7f97a574-2b27-45b6-bbea-184205420545,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+d59e6d3c-4be7-439c-8b5a-c038c6583ab7,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+9c724ad1-c8b1-4d3d-8b36-4917bc606fe9,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+e7beaaea-fd7f-4e8d-b172-4aad3b16fcab,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+07678e25-ba1e-4a61-892d-9c72ed56eaeb,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+ffe1d73a-b7eb-4c92-a9ce-d8d1072ff598,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+0a09e457-0ee4-44a4-b0cd-ac25d98a8fa8,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
+8eec68ed-f1b9-4830-b3e6-5b8916ac3956,5790,b8ecb54f-db30-44c9-af3e-2bd3574e27f7,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,1c400755-2e61-4336-b0da-a641d6ea3765,1,1
 7bf4e6f1-6931-4e44-b01a-ed26cac0e4d9,5784,eab7d402-3797-4adf-8976-c9de7cddef02,"Shoreline, La Avenida, Crittenden",B - AM,0,,44fc0ad5-a983-49e6-9a62-d8b42b0be226,1,1
 c0229c47-cce0-4759-b516-b04fb35d5fda,5784,eab7d402-3797-4adf-8976-c9de7cddef02,"Shoreline, La Avenida, Crittenden",B - AM,0,,44fc0ad5-a983-49e6-9a62-d8b42b0be226,1,1
 8f0b6d28-1751-4df5-93e0-943f29c00f80,5784,eab7d402-3797-4adf-8976-c9de7cddef02,"Shoreline, La Avenida, Crittenden",B - AM,0,,52e17c1e-b057-4c6a-bd6d-f55cd7302c2a,1,1
