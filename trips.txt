@@ -72,20 +72,6 @@ f3fc942d-6272-4e8a-8f28-44956124c0e5,5788,4451074e-efcc-49b7-b978-b8391e875b96,"
 da1bb48c-6e16-4f89-a9ba-63a7b8fbc75a,5788,4451074e-efcc-49b7-b978-b8391e875b96,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,500b9b7e-4b80-463a-b937-57949aea6657,1,1
 e2a0d58d-ddbd-4cb0-907a-2426f5f49c3c,5788,4451074e-efcc-49b7-b978-b8391e875b96,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,500b9b7e-4b80-463a-b937-57949aea6657,1,1
 b3dd929f-7c3e-4644-9aa8-4c3dcd7ae96b,5788,4451074e-efcc-49b7-b978-b8391e875b96,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,500b9b7e-4b80-463a-b937-57949aea6657,1,1
-42172e90-440e-4da4-bc87-6fbd49aaf160,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-13f8b991-26c7-4ad9-b500-ab8a86bf9f80,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-9f7f5e44-b5a8-4c64-b72a-c4093f996965,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-552d3e86-b0f4-46ad-b608-eeb94cbb5cdc,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-5e46cbc4-1bac-4005-bde2-ee1c2d40aba1,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-588bf1db-e747-4fe7-8124-c4ab0a0dd625,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-e539137f-2060-48a3-8bb6-de1b93a205a9,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-c7886fcc-91c0-4167-8ea3-46aaf3df68e0,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-a701a627-bc1e-438a-ac3d-b228f42d44cc,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-ef220ecb-db0e-4566-9a84-eaa04b316c9d,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,00b4f274-c18c-4510-8f6f-bff13b1fd43f,1,1
-d4c89b4d-2e65-420c-86b4-ff5c230e6b1c,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-7e951ae3-1558-497d-aaff-3eaf3ea02b82,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,6f8528d4-7710-4769-9aa8-ba1a8f3f330b,1,1
-cc435b05-1e9f-4995-9df1-7bb58af8c31a,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,00b4f274-c18c-4510-8f6f-bff13b1fd43f,1,1
-413c8742-ca0d-4727-9136-41636817eac6,20473,4d17b257-618d-4015-82c8-2d16fa847eef,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,00b4f274-c18c-4510-8f6f-bff13b1fd43f,1,1
 9c5dad41-b1df-4818-aa3d-b3624dcaea42,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,cff07afe-7c04-47bb-8264-1efdc145b74f,1,1
 3f5999cd-062c-44d1-9bf2-354c59e0154d,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,cff07afe-7c04-47bb-8264-1efdc145b74f,1,1
 8cd5d3fc-8269-434d-b29f-86a789bfcda8,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,cff07afe-7c04-47bb-8264-1efdc145b74f,1,1
@@ -148,13 +134,6 @@ ba46092b-1f13-4fc6-bc1f-d4cdbbcf739b,20473,f46e1d72-686b-4f88-bf08-9db4f6618e1f,
 d6969e8c-d65d-457a-95ce-48d9a3a9c15b,20473,f46e1d72-686b-4f88-bf08-9db4f6618e1f,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,c34f989a-ea6c-43f6-a8c5-0479f4144ce7,1,1
 e639a8a7-dd13-426f-918b-3097a9a1b6d2,20473,f46e1d72-686b-4f88-bf08-9db4f6618e1f,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,c34f989a-ea6c-43f6-a8c5-0479f4144ce7,1,1
 fe35a9ef-92fe-4540-9213-154a4aca9391,20473,f46e1d72-686b-4f88-bf08-9db4f6618e1f,"Middlefield, Crittenden, Shoreline",B - PM Concert,0,,c34f989a-ea6c-43f6-a8c5-0479f4144ce7,1,1
-26f31545-5df7-49ae-9f36-d1d7d3a14295,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-ce93fb5b-d1d6-4cc0-98fb-024b786e4c6c,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-83469986-72a1-4221-a384-ab30dfd68e17,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-eeaf2878-2c37-4029-961f-eb4b71ad331e,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-f3c57d77-7033-493c-a53a-71eae61d0e32,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-cc130c6d-9037-4d15-9f74-85bdf7b8bafe,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
-2622f858-6a92-453a-93ab-0931fcd37841,20022,f6989618-002d-4241-95e9-6056337c1ba0,C - Concert,C - PM Concert,0,,43994c2c-b756-4285-a1e9-6056208e9213,1,1
 89d1eeb2-4fee-4f8e-a337-a108ba07174c,5787,fee9d75f-7f6e-4249-9a37-a467f6f5d4cd,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,0,,597b502f-99cb-43d1-bdd3-7341f3327774,1,1
 bf078797-dd46-4c1d-971d-8069e70e3bf4,5787,fee9d75f-7f6e-4249-9a37-a467f6f5d4cd,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,774ffc0b-1acf-404b-9d3f-d4f46418d262,1,1
 9d86ff23-ae0d-4bb1-ac5b-0e853da7183f,5787,fee9d75f-7f6e-4249-9a37-a467f6f5d4cd,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,774ffc0b-1acf-404b-9d3f-d4f46418d262,1,1
