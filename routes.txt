@@ -1,6 +1,4 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-20473,,B - PM Concert,"Middlefield, Crittenden, Shoreline",,3,https://mvgo.org/routes/b/,E02646,FFFFFF,,1,1
-20022,,C - PM Concert,"California, San Antonio, W El Camino Real",,3,https://mvgo.org/routes/c/,12EB4B,FFFFFF,,1,1
 5786,,A - PM,"Middlefield, Clyde & Whisman",,3,https://mvgo.org/routes/a/,1F51FF,FFFFFF,,1,1
 5783,,A - AM,"Whisman, Clyde & Middlefield",,3,https://mvgo.org/routes/a/,1F51FF,FFFFFF,,1,1
 5787,,C - AM,"Charleston, Garcia & San Antonio (Counterclockwise loop)",,3,https://mvgo.org/routes/c/,43B5AE,FFFFFF,,1,1
