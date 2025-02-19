@@ -1,15 +1,15 @@
 trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-eef0a671-de81-4277-9cdf-37eb5bbf3135,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-e6429e79-c71e-49ca-a297-48c7efcca4e5,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-c0c29aef-2fac-4156-af90-12fa0372d2df,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-dab0a730-3b4f-43bb-bfd1-3b832bbc29aa,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-5cc18797-c900-4c42-b586-cd460ee43cf2,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-36596a38-d189-48f2-86ae-e0e1e59d55c4,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-372569ec-167e-4b76-b8ae-2c037f757793,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-6ecdde20-c1b2-476f-9b68-b658b520fadb,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-edc48672-e97d-4e0e-9b91-d53fa7d82b18,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,44845c63-fac5-4111-bcc4-b221ee2f2e62,1,1
-bf29e016-50f7-4866-bf1c-e8e829d40d16,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,a88e6d23-070b-4c6e-9b45-c932cbf49a6f,1,1
-1e25b803-fb56-4c19-bcb2-1f910320448f,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,a88e6d23-070b-4c6e-9b45-c932cbf49a6f,1,1
+1e25b803-fb56-4c19-bcb2-1f910320448f,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,9a6a9c49-ae1e-45ed-8d97-3bd871197b4a,1,1
+eef0a671-de81-4277-9cdf-37eb5bbf3135,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+e6429e79-c71e-49ca-a297-48c7efcca4e5,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+c0c29aef-2fac-4156-af90-12fa0372d2df,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+dab0a730-3b4f-43bb-bfd1-3b832bbc29aa,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+5cc18797-c900-4c42-b586-cd460ee43cf2,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+36596a38-d189-48f2-86ae-e0e1e59d55c4,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+372569ec-167e-4b76-b8ae-2c037f757793,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+6ecdde20-c1b2-476f-9b68-b658b520fadb,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+edc48672-e97d-4e0e-9b91-d53fa7d82b18,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,857b1869-807d-40e2-8275-d6bf2e1f2474,1,1
+bf29e016-50f7-4866-bf1c-e8e829d40d16,5784,18c852f9-97de-45f6-b235-bddab8defa5a,"Shoreline, La Avenida, Crittenden",B - AM,0,,9a6a9c49-ae1e-45ed-8d97-3bd871197b4a,1,1
 fd389186-ca0c-4835-b77c-cbf4bd6f6829,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,bfed0011-8ccc-4dc8-8be0-0764b2ef3222,1,1
 967e539e-11f6-4a87-9985-fb55b90e6fab,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,bfed0011-8ccc-4dc8-8be0-0764b2ef3222,1,1
 6d6cfafc-6a32-43d2-af06-5572bea484a5,5783,5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,"Whisman, Clyde & Middlefield",,0,,bfed0011-8ccc-4dc8-8be0-0764b2ef3222,1,1
@@ -41,18 +41,18 @@ a86fc34c-aeeb-4f4d-81c5-dc9ac1fcf84d,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,R
 1d12bef1-df8c-448d-973b-ee82e6712cba,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,943148a3-97f6-4a5c-bdce-24229e99904f,1,1
 b7dce285-795f-4282-98b1-30db7129a38c,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,203d80b5-140f-4b73-bc15-d03d657824ea,1,1
 5ad1979d-3828-4a52-8e3e-d5c15c628e75,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,203d80b5-140f-4b73-bc15-d03d657824ea,1,1
-e93f27af-ff00-40fa-a38c-16657488bae4,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-14945787-5465-4f8d-acdd-73cd52523787,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-d4a89c97-6ff7-4a19-9b9a-63cd900db3e1,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-df2ea476-851f-4cbe-af78-052b977fd93d,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-63014cfc-28ea-4503-8cb1-6aec39704894,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-d816acff-b260-4fda-acbf-c7aa9b0fc237,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-31244964-a6b9-45b3-834b-84f0500122b3,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-3e5a3a12-7055-4fd7-b930-ed25caae192c,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-d4b4fed7-e47e-42a7-ae1f-d08dede15b0e,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-c5663314-eb77-4159-9446-8a31b8b2df3a,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,6394e891-186b-47ca-9083-58c635f0e53f,1,1
-1009ab9c-debc-4caf-90cc-9aff914b0815,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,c6f0faf1-79e3-4bcf-9ab7-aad37d337092,1,1
-6864d016-7689-4e33-80da-be0b22ccef82,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,c6f0faf1-79e3-4bcf-9ab7-aad37d337092,1,1
+e93f27af-ff00-40fa-a38c-16657488bae4,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+14945787-5465-4f8d-acdd-73cd52523787,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+d4a89c97-6ff7-4a19-9b9a-63cd900db3e1,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+df2ea476-851f-4cbe-af78-052b977fd93d,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+63014cfc-28ea-4503-8cb1-6aec39704894,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+d816acff-b260-4fda-acbf-c7aa9b0fc237,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+31244964-a6b9-45b3-834b-84f0500122b3,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+3e5a3a12-7055-4fd7-b930-ed25caae192c,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+d4b4fed7-e47e-42a7-ae1f-d08dede15b0e,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+c5663314-eb77-4159-9446-8a31b8b2df3a,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,4a4996b3-19a3-4cd8-88ca-2295a8141106,1,1
+1009ab9c-debc-4caf-90cc-9aff914b0815,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,f4ee0102-2dd2-411a-94fb-5b0cd3e781ac,1,1
+6864d016-7689-4e33-80da-be0b22ccef82,5785,b499c141-44fd-41fa-b82c-193434319b15,"Shoreline, Crittenden, La Avenida",B - PM,0,,f4ee0102-2dd2-411a-94fb-5b0cd3e781ac,1,1
 becd82f4-dd4f-4c0f-8b24-d7fe28ace66d,5790,bc1a5438-bc6f-4f64-a8a1-3184ef880005,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,8e2b2ea3-1513-4021-a7cd-535dff1c93d5,1,1
 df9845d3-888d-43c8-900d-c28dfcd7d050,5790,bc1a5438-bc6f-4f64-a8a1-3184ef880005,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,8e2b2ea3-1513-4021-a7cd-535dff1c93d5,1,1
 2274c349-91f2-4e70-9927-af377f2e2197,5790,bc1a5438-bc6f-4f64-a8a1-3184ef880005,"San Antonio, Garcia & Charleston (Clockwise loop)",D - PM,0,,8e2b2ea3-1513-4021-a7cd-535dff1c93d5,1,1
