@@ -39,14 +39,14 @@ db09de07-76bb-4caa-aaf4-44155de8e276,5787,6060f6cc-87bd-40f3-b8c4-94b95ba3bd0b,"
 a2ad9e69-02e4-420f-afb9-24b97a9a9f66,5787,6060f6cc-87bd-40f3-b8c4-94b95ba3bd0b,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8034e87a-9935-40e0-8bc1-3f04f4b36317,0,0
 3754d2d4-d9d5-4632-9db2-61f083cd2b21,5787,6060f6cc-87bd-40f3-b8c4-94b95ba3bd0b,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,8034e87a-9935-40e0-8bc1-3f04f4b36317,0,0
 6e8d1137-d5a7-44c4-a337-7295a0985ebc,5787,6060f6cc-87bd-40f3-b8c4-94b95ba3bd0b,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - AM,0,,41a718a7-e572-4846-897d-8850fe4d45c2,0,0
-77125b45-4a0b-4d46-98db-9cc54b968c85,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-f42f154d-2c03-4104-ae32-1208037eee47,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-0941684f-a81a-46d8-91d6-5142435e47ac,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-887f06a3-ec21-42af-affe-8a5912268b59,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-53d79391-11f4-4704-b986-e34f52748234,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-0231885c-df14-4a7c-a600-9b1b6636a7c2,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-fcaa55a1-f17b-4e00-bd55-ea5ee0c1087c,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
-846df8aa-0c80-4e3b-9d50-60283f2b45f1,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,99448b93-ed39-4f34-9d70-9ec770b0f092,0,0
+77125b45-4a0b-4d46-98db-9cc54b968c85,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+f42f154d-2c03-4104-ae32-1208037eee47,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+0941684f-a81a-46d8-91d6-5142435e47ac,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+887f06a3-ec21-42af-affe-8a5912268b59,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+53d79391-11f4-4704-b986-e34f52748234,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+0231885c-df14-4a7c-a600-9b1b6636a7c2,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+fcaa55a1-f17b-4e00-bd55-ea5ee0c1087c,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
+846df8aa-0c80-4e3b-9d50-60283f2b45f1,5788,9e8ee99f-6008-4cf1-9c89-170f0c66c046,"Charleston, Garcia & San Antonio (Counterclockwise loop)",C - PM,0,,9893a23c-b7a2-4b8c-ab8b-6a8daa5c1ec2,0,0
 3749e7b2-28f5-46be-b454-9e81c5e0d311,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,203d80b5-140f-4b73-bc15-d03d657824ea,0,0
 03a0f4e4-7593-416b-b513-384392196851,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,203d80b5-140f-4b73-bc15-d03d657824ea,0,0
 6084c461-9c6e-4588-84ac-0c5b4082c5ed,5786,a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Route A - PM,A - PM,0,,203d80b5-140f-4b73-bc15-d03d657824ea,0,0
@@ -83,15 +83,15 @@ b4c2e9c4-fc49-4775-a7b3-886ce0125b71,5789,d51ae8cc-ac60-4dc2-af25-b2f17a6509ce,"
 382de926-b02f-45db-9ab3-3452e8b816f9,5789,d51ae8cc-ac60-4dc2-af25-b2f17a6509ce,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,48fb9443-e120-4421-b430-7a59825d29b8,0,0
 1761e1e2-4f1d-4fd6-ad85-8a2ab0399fb0,5789,d51ae8cc-ac60-4dc2-af25-b2f17a6509ce,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,febe29fa-820a-4666-969a-12bd5e3cb7cf,0,0
 fa31a3dd-338a-4ae9-ab4c-7ca264b528e4,5789,d51ae8cc-ac60-4dc2-af25-b2f17a6509ce,"San Antonio, Garcia & Charleston (Clockwise loop)",D - AM,0,,48fb9443-e120-4421-b430-7a59825d29b8,0,0
-b6e1098a-1cda-4786-be58-63db3dc7c458,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-586c6a0c-62b5-4b92-af3e-a8d19ea753fa,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-15ac334f-4d8e-4f2b-b6c4-7cd43e4bb904,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-79d460dd-6684-4cf4-93c6-5734dad2b679,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-86e40361-cb6a-4a90-9132-3f5c7ee081c2,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-6a6d6fab-abad-4b50-8e2c-8b3745634975,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-e5ab40d5-a8ee-4c04-8c0b-cb19d0d9b819,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-e8cbb8a7-6b70-4dd0-8681-77e99e068c41,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-a48348e5-a5f5-4b03-9ce4-aad708c46bcc,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-2873d707-bee1-4349-a0a4-9e2990ded1f6,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-11e2abde-4c8d-414b-8b6d-3914e97a9aed,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
-62de6ac6-e394-47b2-8d8e-1f297199be8d,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,1b666408-2f63-43ca-ab82-a6500bc2fa32,0,0
+b6e1098a-1cda-4786-be58-63db3dc7c458,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+586c6a0c-62b5-4b92-af3e-a8d19ea753fa,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+15ac334f-4d8e-4f2b-b6c4-7cd43e4bb904,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+79d460dd-6684-4cf4-93c6-5734dad2b679,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+86e40361-cb6a-4a90-9132-3f5c7ee081c2,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+6a6d6fab-abad-4b50-8e2c-8b3745634975,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+e5ab40d5-a8ee-4c04-8c0b-cb19d0d9b819,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+a48348e5-a5f5-4b03-9ce4-aad708c46bcc,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+e8cbb8a7-6b70-4dd0-8681-77e99e068c41,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+2873d707-bee1-4349-a0a4-9e2990ded1f6,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+11e2abde-4c8d-414b-8b6d-3914e97a9aed,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
+62de6ac6-e394-47b2-8d8e-1f297199be8d,5791,d873f7d9-a4fb-4296-9da2-78928f4460ce,"San Antonio, Garcia & Charleston (Clockwise loop)",,0,,fbb3704b-ab32-428d-9632-774e4bebe5f2,0,0
