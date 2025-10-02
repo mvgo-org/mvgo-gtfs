@@ -1,23 +1,13 @@
 service_id,service_description
-9e8ee99f-6008-4cf1-9c89-170f0c66c046,Calendar start 2.1.25 (Weekday)
 fac6cc56-7fa1-4f6c-bc75-778480c986b4,Calendar start 10.1.25 (Weekday)
 1076a160-237e-46c8-be75-6a652132878e,Calendar start 10.1.25 (Weekday)
-d51ae8cc-ac60-4dc2-af25-b2f17a6509ce,Calendar start 2.1.25 (Weekday)
 e246c752-aa2d-4c64-abb7-4240d320ccd8,Calendar start 10.1.25 (Weekday)
 ffc9c648-977f-4f24-8632-843b4c08a916,Calendar start 10.1.25 (Weekday)
-bc1a5438-bc6f-4f64-a8a1-3184ef880005,Calendar start 2.1.25 (Weekday)
 4ad95ce2-3dfb-494f-801c-dd2d254c33d5,Calendar start 10.1.25 (Weekday)
 1a69a2db-a048-4062-8277-7a46e1d89cbe,Calendar start 10.1.25 (Weekday)
-5eb1d4a0-1537-4075-b4d2-9b4f26468a9e,Calendar start 2.1.25 (Weekday)
 40058897-24d8-44b9-88b9-8b6109e07f13,Calendar start 10.1.25 (Weekday)
-a9c11c13-ddaf-47e9-acd2-6249104f4ef1,Calendar start 2.1.25 (Weekday)
 57ab9ad4-a761-43e6-9ad5-17cec892f9b8,Calendar start 10.1.25 (Weekday)
-18c852f9-97de-45f6-b235-bddab8defa5a,Calendar start 2.1.25 (Weekday)
-b499c141-44fd-41fa-b82c-193434319b15,Calendar start 2.1.25 (Weekday)
 0af8f89b-9541-45e8-8226-d9f63f518cac,Calendar concert 10.03.25
 93a5bce5-7a4b-4d3d-a674-376c3458f114,Calendar concert 10.03.25
-6060f6cc-87bd-40f3-b8c4-94b95ba3bd0b,Calendar start 2.1.25 (Weekday)
 b69e9e73-19de-40e8-9610-2d5f6296b911,Calendar concert 10.14.25
 3a40dfd1-72a7-4c5e-b401-f4946d6cfb7d,Calendar concert 10.16.25
-db5a7995-941c-4e18-8cdd-ba837857c591,Calendar concert 10.14.25
-41f2534f-7508-458d-bbc0-c92ff5790cb9,Calendar concert 10.16.25
